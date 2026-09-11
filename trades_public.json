@@ -2714,5 +2714,29 @@
     "closed_at": "2026-09-09T15:07:23+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3333": {
+    "coin": "ETHFI",
+    "direction": "LONG",
+    "entry_price": 0.6207,
+    "take_profits": [
+      0.627,
+      0.6363,
+      0.6518
+    ],
+    "stop_loss": 0.6071,
+    "leverage": 5,
+    "status": "TP2",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 9.0236,
+    "source_msg_id": 3333,
+    "forwarded_msg_id": 3333,
+    "opened_at": "2026-09-11T11:00:38+00:00",
+    "closed_at": "2026-09-11T12:33:34+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
