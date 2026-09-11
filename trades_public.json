@@ -1,2431 +1,242 @@
 {
-  "30001": {
-    "coin": "SOPH",
-    "direction": "LONG",
-    "entry_price": 0.0051684999999999995,
-    "take_profits": [
-      0.00522018,
-      0.00529771,
-      0.00542692
-    ],
-    "stop_loss": 0.0051735,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1069,
-    "source_msg_id": 30001,
-    "forwarded_msg_id": 30000,
-    "opened_at": "2026-09-09T14:15:34+00:00",
-    "closed_at": "2026-09-09T14:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30002": {
-    "coin": "SNDK",
-    "direction": "LONG",
-    "entry_price": 1719.25,
-    "take_profits": [
-      1736.4425,
-      1762.23125,
-      1805.2125
-    ],
-    "stop_loss": 1739.1,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.2715,
-    "source_msg_id": 30002,
-    "forwarded_msg_id": 30001,
-    "opened_at": "2026-09-09T10:15:34+00:00",
-    "closed_at": "2026-09-09T10:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30003": {
-    "coin": "SKHY",
-    "direction": "LONG",
-    "entry_price": 185.57,
-    "take_profits": [
-      187.7,
-      190.49,
-      195.14
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0082,
-    "source_msg_id": 30003,
-    "forwarded_msg_id": 30002,
-    "opened_at": "2026-09-09T10:00:37+00:00",
-    "closed_at": "2026-09-09T10:00:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30004": {
-    "coin": "CL",
-    "direction": "LONG",
-    "entry_price": 93.26,
-    "take_profits": [
-      94.1926,
-      95.5915,
-      97.923
-    ],
-    "stop_loss": 94.33,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.9884,
-    "source_msg_id": 30004,
-    "forwarded_msg_id": 30003,
-    "opened_at": "2026-09-09T02:15:37+00:00",
-    "closed_at": "2026-09-09T02:15:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30005": {
-    "coin": "1000PEPE",
-    "direction": "LONG",
-    "entry_price": 0.0036265,
-    "take_profits": [
-      0.00366277,
-      0.00371716,
-      0.00380782
-    ],
-    "stop_loss": 0.003668,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.9967,
-    "source_msg_id": 30005,
-    "forwarded_msg_id": 30004,
-    "opened_at": "2026-09-09T02:15:37+00:00",
-    "closed_at": "2026-09-09T02:15:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30006": {
-    "coin": "MU",
-    "direction": "LONG",
-    "entry_price": 1000.31,
-    "take_profits": [
-      1010.3131,
-      1025.31775,
-      1050.3255
-    ],
-    "stop_loss": 1001.31,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1012,
-    "source_msg_id": 30006,
-    "forwarded_msg_id": 30005,
-    "opened_at": "2026-09-08T20:15:38+00:00",
-    "closed_at": "2026-09-08T20:15:38+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30007": {
-    "coin": "UAI",
-    "direction": "LONG",
-    "entry_price": 0.70675,
-    "take_profits": [
-      0.7138175,
-      0.72441875,
-      0.7420875
-    ],
-    "stop_loss": 0.70675,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3063,
-    "source_msg_id": 30007,
-    "forwarded_msg_id": 30006,
-    "opened_at": "2026-09-08T07:15:36+00:00",
-    "closed_at": "2026-09-08T07:15:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30008": {
-    "coin": "SNDK",
-    "direction": "LONG",
-    "entry_price": 1755.035,
-    "take_profits": [
-      1772.58535,
-      1798.910875,
-      1842.78675
-    ],
-    "stop_loss": 1755.0349999999999,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3037,
-    "source_msg_id": 30008,
-    "forwarded_msg_id": 30007,
-    "opened_at": "2026-09-08T06:15:36+00:00",
-    "closed_at": "2026-09-08T06:15:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30009": {
-    "coin": "DOGE",
-    "direction": "LONG",
-    "entry_price": 0.089475,
-    "take_profits": [
-      0.09036975,
-      0.09171187,
-      0.09394875
-    ],
-    "stop_loss": 0.089475,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3135,
-    "source_msg_id": 30009,
-    "forwarded_msg_id": 30008,
-    "opened_at": "2026-09-08T03:30:31+00:00",
-    "closed_at": "2026-09-08T03:30:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30010": {
-    "coin": "ADA",
-    "direction": "LONG",
-    "entry_price": 0.217,
-    "take_profits": [
-      0.21917,
-      0.222425,
-      0.22785
-    ],
-    "stop_loss": 0.217,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3041,
-    "source_msg_id": 30010,
-    "forwarded_msg_id": 30009,
-    "opened_at": "2026-09-08T03:15:34+00:00",
-    "closed_at": "2026-09-08T03:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30011": {
-    "coin": "ZEC",
-    "direction": "LONG",
-    "entry_price": 1120.9,
-    "take_profits": [
-      1132.109,
-      1148.9225,
-      1176.945
-    ],
-    "stop_loss": 1122.6,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 1.9954,
-    "source_msg_id": 30011,
-    "forwarded_msg_id": 30010,
-    "opened_at": "2026-09-07T23:00:34+00:00",
-    "closed_at": "2026-09-07T23:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30012": {
-    "coin": "ENA",
-    "direction": "LONG",
-    "entry_price": 0.163245,
-    "take_profits": [
-      0.16487745,
-      0.16732612,
-      0.17140725
-    ],
-    "stop_loss": 0.16349,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 1.994,
-    "source_msg_id": 30012,
-    "forwarded_msg_id": 30011,
-    "opened_at": "2026-09-07T16:00:35+00:00",
-    "closed_at": "2026-09-07T16:00:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30013": {
-    "coin": "HYPE",
-    "direction": "LONG",
-    "entry_price": 84.72999999999999,
-    "take_profits": [
-      85.5773,
-      86.84825,
-      88.9665
-    ],
-    "stop_loss": 84.81666666666666,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1065,
-    "source_msg_id": 30013,
-    "forwarded_msg_id": 30012,
-    "opened_at": "2026-09-07T16:00:34+00:00",
-    "closed_at": "2026-09-07T16:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30014": {
-    "coin": "TAO",
-    "direction": "LONG",
-    "entry_price": 257.655,
-    "take_profits": [
-      260.23155,
-      264.096375,
-      270.53775
-    ],
-    "stop_loss": 257.655,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3015,
-    "source_msg_id": 30014,
-    "forwarded_msg_id": 30013,
-    "opened_at": "2026-09-07T15:15:34+00:00",
-    "closed_at": "2026-09-07T15:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30015": {
-    "coin": "DASH",
-    "direction": "LONG",
-    "entry_price": 66.9,
-    "take_profits": [
-      67.569,
-      68.5725,
-      70.245
-    ],
-    "stop_loss": 67.6,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 6.7164,
-    "source_msg_id": 30015,
-    "forwarded_msg_id": 30014,
-    "opened_at": "2026-09-07T08:00:36+00:00",
-    "closed_at": "2026-09-07T08:00:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30016": {
-    "coin": "ENA",
-    "direction": "LONG",
-    "entry_price": 0.168215,
-    "take_profits": [
-      0.16989715,
-      0.17242037,
-      0.17662575
-    ],
-    "stop_loss": 0.16476,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2696,
-    "source_msg_id": 30016,
-    "forwarded_msg_id": 30015,
-    "opened_at": "2026-09-07T08:00:34+00:00",
-    "closed_at": "2026-09-07T08:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30017": {
-    "coin": "PUMPFUN",
-    "direction": "LONG",
-    "entry_price": 0.003915,
-    "take_profits": [
-      0.00395415,
-      0.00401287,
-      0.00411075
-    ],
-    "stop_loss": 0.00396,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.046,
-    "source_msg_id": 30017,
-    "forwarded_msg_id": 30016,
-    "opened_at": "2026-09-07T02:30:35+00:00",
-    "closed_at": "2026-09-07T02:30:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30018": {
-    "coin": "APT",
-    "direction": "LONG",
-    "entry_price": 0.608,
-    "take_profits": [
-      0.61408,
-      0.6232,
-      0.6384
-    ],
-    "stop_loss": 0.615,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.5008,
-    "source_msg_id": 30018,
-    "forwarded_msg_id": 30017,
-    "opened_at": "2026-09-06T14:45:34+00:00",
-    "closed_at": "2026-09-06T14:45:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30019": {
-    "coin": "ADA",
-    "direction": "LONG",
-    "entry_price": 0.2163,
-    "take_profits": [
-      0.218463,
-      0.2217075,
-      0.227115
-    ],
-    "stop_loss": 0.2188,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.9982,
-    "source_msg_id": 30019,
-    "forwarded_msg_id": 30018,
-    "opened_at": "2026-09-06T14:45:32+00:00",
-    "closed_at": "2026-09-06T14:45:32+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30020": {
-    "coin": "XRP",
-    "direction": "LONG",
-    "entry_price": 1.4053499999999999,
-    "take_profits": [
-      1.4194035,
-      1.44048375,
-      1.4756175
-    ],
-    "stop_loss": 1.4053499999999999,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.2984,
-    "source_msg_id": 30020,
-    "forwarded_msg_id": 30019,
-    "opened_at": "2026-09-06T14:45:31+00:00",
-    "closed_at": "2026-09-06T14:45:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30021": {
-    "coin": "SPCX",
-    "direction": "LONG",
-    "entry_price": 147.405,
-    "take_profits": [
-      148.87905,
-      151.090125,
-      154.77525
-    ],
-    "stop_loss": 149.1,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.2343,
-    "source_msg_id": 30021,
-    "forwarded_msg_id": 30020,
-    "opened_at": "2026-09-04T20:15:34+00:00",
-    "closed_at": "2026-09-04T20:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30022": {
-    "coin": "CHIP",
-    "direction": "LONG",
-    "entry_price": 0.052385,
-    "take_profits": [
-      0.05290885,
-      0.05369462,
-      0.05500425
-    ],
-    "stop_loss": 0.052434999999999996,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1169,
-    "source_msg_id": 30022,
-    "forwarded_msg_id": 30021,
-    "opened_at": "2026-09-04T14:30:35+00:00",
-    "closed_at": "2026-09-04T14:30:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30023": {
-    "coin": "CL",
-    "direction": "LONG",
-    "entry_price": 89.0,
-    "take_profits": [
-      90.0,
-      91.4,
-      93.6
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0449,
-    "source_msg_id": 30023,
-    "forwarded_msg_id": 30022,
-    "opened_at": "2026-09-04T13:45:34+00:00",
-    "closed_at": "2026-09-04T13:45:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30024": {
-    "coin": "UNI",
-    "direction": "LONG",
-    "entry_price": 6.093999999999999,
-    "take_profits": [
-      6.15494,
-      6.24635,
-      6.3987
-    ],
-    "stop_loss": 6.164,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.0079,
-    "source_msg_id": 30024,
-    "forwarded_msg_id": 30023,
-    "opened_at": "2026-09-04T13:15:33+00:00",
-    "closed_at": "2026-09-04T13:15:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30025": {
-    "coin": "TRUMP",
-    "direction": "LONG",
-    "entry_price": 2.1925,
-    "take_profits": [
-      2.214425,
-      2.2473125,
-      2.302125
-    ],
-    "stop_loss": 2.218,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.8028,
-    "source_msg_id": 30025,
-    "forwarded_msg_id": 30024,
-    "opened_at": "2026-09-04T13:00:40+00:00",
-    "closed_at": "2026-09-04T13:00:40+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30026": {
-    "coin": "ENA",
-    "direction": "LONG",
-    "entry_price": 0.160905,
-    "take_profits": [
-      0.16251405,
-      0.16492762,
-      0.16895025
-    ],
-    "stop_loss": 0.16276,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.0109,
-    "source_msg_id": 30026,
-    "forwarded_msg_id": 30025,
-    "opened_at": "2026-09-04T13:00:39+00:00",
-    "closed_at": "2026-09-04T13:00:39+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30027": {
-    "coin": "APT",
-    "direction": "LONG",
-    "entry_price": 0.5730500000000001,
-    "take_profits": [
-      0.5787805,
-      0.58737625,
-      0.6017025
-    ],
-    "stop_loss": 0.5797,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.0534,
-    "source_msg_id": 30027,
-    "forwarded_msg_id": 30026,
-    "opened_at": "2026-09-04T13:00:34+00:00",
-    "closed_at": "2026-09-04T13:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30028": {
-    "coin": "SUI",
-    "direction": "LONG",
-    "entry_price": 0.74535,
-    "take_profits": [
-      0.7539,
-      0.7651,
-      0.7838
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0068,
-    "source_msg_id": 30028,
-    "forwarded_msg_id": 30027,
-    "opened_at": "2026-09-04T13:00:34+00:00",
-    "closed_at": "2026-09-04T13:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30029": {
-    "coin": "XRP",
-    "direction": "LONG",
-    "entry_price": 1.4,
-    "take_profits": [
-      1.414,
-      1.435,
-      1.47
-    ],
-    "stop_loss": 1.4021,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.0113,
-    "source_msg_id": 30029,
-    "forwarded_msg_id": 30028,
-    "opened_at": "2026-09-04T13:00:32+00:00",
-    "closed_at": "2026-09-04T13:00:32+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30030": {
-    "coin": "SOL",
-    "direction": "LONG",
-    "entry_price": 100.80000000000001,
-    "take_profits": [
-      101.808,
-      103.32,
-      105.84
-    ],
-    "stop_loss": 100.95,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.001,
-    "source_msg_id": 30030,
-    "forwarded_msg_id": 30029,
-    "opened_at": "2026-09-04T13:00:32+00:00",
-    "closed_at": "2026-09-04T13:00:32+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30031": {
-    "coin": "ENA",
-    "direction": "LONG",
-    "entry_price": 0.163715,
-    "take_profits": [
-      0.1656,
-      0.16806,
-      0.17216
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0213,
-    "source_msg_id": 30031,
-    "forwarded_msg_id": 30030,
-    "opened_at": "2026-09-04T05:15:35+00:00",
-    "closed_at": "2026-09-04T05:15:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30032": {
-    "coin": "SKHYNIX",
-    "direction": "LONG",
-    "entry_price": 1198.6,
-    "take_profits": [
-      1210.586,
-      1228.565,
-      1258.53
-    ],
-    "stop_loss": 1212.4,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.2488,
-    "source_msg_id": 30032,
-    "forwarded_msg_id": 30031,
-    "opened_at": "2026-09-04T02:30:37+00:00",
-    "closed_at": "2026-09-04T02:30:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30033": {
-    "coin": "MAGMA",
-    "direction": "LONG",
-    "entry_price": 0.35495,
-    "take_profits": [
-      0.3584995,
-      0.36382375,
-      0.3726975
-    ],
-    "stop_loss": 0.3477,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2127,
-    "source_msg_id": 30033,
-    "forwarded_msg_id": 30032,
-    "opened_at": "2026-09-03T21:30:36+00:00",
-    "closed_at": "2026-09-03T21:30:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30034": {
-    "coin": "SNDK",
-    "direction": "LONG",
-    "entry_price": 1520.775,
-    "take_profits": [
-      1535.98275,
-      1558.794375,
-      1596.81375
-    ],
-    "stop_loss": 1538.29,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.0124,
-    "source_msg_id": 30034,
-    "forwarded_msg_id": 30033,
-    "opened_at": "2026-09-03T14:15:34+00:00",
-    "closed_at": "2026-09-03T14:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30035": {
-    "coin": "CASHCAT",
-    "direction": "LONG",
-    "entry_price": 0.256855,
-    "take_profits": [
-      0.25942355,
-      0.26327637,
-      0.26969775
-    ],
-    "stop_loss": 0.256855,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3009,
-    "source_msg_id": 30035,
-    "forwarded_msg_id": 30034,
-    "opened_at": "2026-09-03T04:45:37+00:00",
-    "closed_at": "2026-09-03T04:45:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30036": {
-    "coin": "SKR",
-    "direction": "LONG",
-    "entry_price": 0.02205,
-    "take_profits": [
-      0.0222705,
-      0.02260125,
-      0.0231525
-    ],
-    "stop_loss": 0.0223,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.9819,
-    "source_msg_id": 30036,
-    "forwarded_msg_id": 30035,
-    "opened_at": "2026-09-03T02:45:35+00:00",
-    "closed_at": "2026-09-03T02:45:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30037": {
-    "coin": "NVDA",
-    "direction": "LONG",
-    "entry_price": 216.325,
-    "take_profits": [
-      218.81,
-      222.06,
-      227.48
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 13.4947,
-    "source_msg_id": 30037,
-    "forwarded_msg_id": 30036,
-    "opened_at": "2026-09-02T10:15:34+00:00",
-    "closed_at": "2026-09-02T10:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30038": {
-    "coin": "ENA",
-    "direction": "LONG",
-    "entry_price": 0.1525,
-    "take_profits": [
-      0.154025,
-      0.1563125,
-      0.160125
-    ],
-    "stop_loss": 0.14937,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2623,
-    "source_msg_id": 30038,
-    "forwarded_msg_id": 30037,
-    "opened_at": "2026-09-02T10:15:34+00:00",
-    "closed_at": "2026-09-02T10:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30039": {
-    "coin": "KORU",
-    "direction": "LONG",
-    "entry_price": 18.71,
-    "take_profits": [
-      18.92,
-      19.2,
-      19.67
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 13.8696,
-    "source_msg_id": 30039,
-    "forwarded_msg_id": 30038,
-    "opened_at": "2026-09-02T10:00:36+00:00",
-    "closed_at": "2026-09-02T10:00:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30040": {
-    "coin": "SNDK",
-    "direction": "LONG",
-    "entry_price": 1514.4050000000002,
-    "take_profits": [
-      1529.54905,
-      1552.265125,
-      1590.12525
-    ],
-    "stop_loss": 1531.85,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.251,
-    "source_msg_id": 30040,
-    "forwarded_msg_id": 30039,
-    "opened_at": "2026-09-02T09:45:37+00:00",
-    "closed_at": "2026-09-02T09:45:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30041": {
-    "coin": "SOXL",
-    "direction": "LONG",
-    "entry_price": 101.74000000000001,
-    "take_profits": [
-      102.7574,
-      104.2835,
-      106.827
-    ],
-    "stop_loss": 102.91,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.0057,
-    "source_msg_id": 30041,
-    "forwarded_msg_id": 30040,
-    "opened_at": "2026-09-02T09:30:34+00:00",
-    "closed_at": "2026-09-02T09:30:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30042": {
-    "coin": "LIT",
-    "direction": "LONG",
-    "entry_price": 3.551,
-    "take_profits": [
-      3.58651,
-      3.639775,
-      3.72855
-    ],
-    "stop_loss": 3.478,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2788,
-    "source_msg_id": 30042,
-    "forwarded_msg_id": 30041,
-    "opened_at": "2026-09-01T23:00:36+00:00",
-    "closed_at": "2026-09-01T23:00:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30043": {
-    "coin": "HEMI",
-    "direction": "LONG",
-    "entry_price": 0.0143145,
-    "take_profits": [
-      0.01445765,
-      0.01467236,
-      0.01503023
-    ],
-    "stop_loss": 0.014336,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 1.995,
-    "source_msg_id": 30043,
-    "forwarded_msg_id": 30042,
-    "opened_at": "2026-09-01T22:30:36+00:00",
-    "closed_at": "2026-09-01T22:30:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30044": {
-    "coin": "SOL",
-    "direction": "LONG",
-    "entry_price": 98.735,
-    "take_profits": [
-      99.72235,
-      101.203375,
-      103.67175
-    ],
-    "stop_loss": 98.88,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.0024,
-    "source_msg_id": 30044,
-    "forwarded_msg_id": 30043,
-    "opened_at": "2026-09-01T19:15:31+00:00",
-    "closed_at": "2026-09-01T19:15:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30045": {
-    "coin": "ADA",
-    "direction": "LONG",
-    "entry_price": 0.1945,
-    "take_profits": [
-      0.196445,
-      0.1993625,
-      0.204225
-    ],
-    "stop_loss": 0.1945,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.5707,
-    "source_msg_id": 30045,
-    "forwarded_msg_id": 30044,
-    "opened_at": "2026-09-01T18:30:32+00:00",
-    "closed_at": "2026-09-01T18:30:32+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30046": {
-    "coin": "KORU",
-    "direction": "LONG",
-    "entry_price": 19.450000000000003,
-    "take_profits": [
-      19.6445,
-      19.93625,
-      20.4225
-    ],
-    "stop_loss": 19.05,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2828,
-    "source_msg_id": 30046,
-    "forwarded_msg_id": 30045,
-    "opened_at": "2026-09-01T17:30:35+00:00",
-    "closed_at": "2026-09-01T17:30:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30047": {
-    "coin": "TRUMP",
-    "direction": "LONG",
-    "entry_price": 2.3145,
-    "take_profits": [
-      2.337645,
-      2.3723625,
-      2.430225
-    ],
-    "stop_loss": 2.267,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2614,
-    "source_msg_id": 30047,
-    "forwarded_msg_id": 30046,
-    "opened_at": "2026-09-01T17:00:35+00:00",
-    "closed_at": "2026-09-01T17:00:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30048": {
-    "coin": "ZEC",
-    "direction": "LONG",
-    "entry_price": 832.36,
-    "take_profits": [
-      840.6836,
-      853.169,
-      873.978
-    ],
-    "stop_loss": 832.36,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3043,
-    "source_msg_id": 30048,
-    "forwarded_msg_id": 30047,
-    "opened_at": "2026-09-01T16:45:34+00:00",
-    "closed_at": "2026-09-01T16:45:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30049": {
-    "coin": "SKR",
-    "direction": "LONG",
-    "entry_price": 0.027153,
-    "take_profits": [
-      0.02742453,
-      0.02783182,
-      0.02851065
-    ],
-    "stop_loss": 0.026596,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2567,
-    "source_msg_id": 30049,
-    "forwarded_msg_id": 30048,
-    "opened_at": "2026-09-01T09:00:34+00:00",
-    "closed_at": "2026-09-01T09:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30050": {
-    "coin": "SNDK",
-    "direction": "LONG",
-    "entry_price": 1520.8249999999998,
-    "take_profits": [
-      1538.34,
-      1561.19,
-      1599.27
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0217,
-    "source_msg_id": 30050,
-    "forwarded_msg_id": 30049,
-    "opened_at": "2026-09-01T08:45:35+00:00",
-    "closed_at": "2026-09-01T08:45:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30051": {
-    "coin": "ZEC",
-    "direction": "LONG",
-    "entry_price": 840.29,
-    "take_profits": [
-      848.6929,
-      861.29725,
-      882.3045
-    ],
-    "stop_loss": 849.97,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.0127,
-    "source_msg_id": 30051,
-    "forwarded_msg_id": 30050,
-    "opened_at": "2026-09-01T08:45:34+00:00",
-    "closed_at": "2026-09-01T08:45:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30052": {
-    "coin": "KORU",
-    "direction": "LONG",
-    "entry_price": 20.89,
-    "take_profits": [
-      21.0989,
-      21.41225,
-      21.9345
-    ],
-    "stop_loss": 20.46,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.292,
-    "source_msg_id": 30052,
-    "forwarded_msg_id": 30051,
-    "opened_at": "2026-09-01T03:15:36+00:00",
-    "closed_at": "2026-09-01T03:15:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30053": {
-    "coin": "PUMPFUN",
-    "direction": "LONG",
-    "entry_price": 0.004477,
-    "take_profits": [
-      0.00452177,
-      0.00458892,
-      0.00470085
-    ],
-    "stop_loss": 0.004484,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.0071,
-    "source_msg_id": 30053,
-    "forwarded_msg_id": 30052,
-    "opened_at": "2026-09-01T03:00:35+00:00",
-    "closed_at": "2026-09-01T03:00:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30054": {
-    "coin": "BTR",
-    "direction": "LONG",
-    "entry_price": 0.14690999999999999,
-    "take_profits": [
-      0.1483791,
-      0.15058275,
-      0.1542555
-    ],
-    "stop_loss": 0.1439,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2444,
-    "source_msg_id": 30054,
-    "forwarded_msg_id": 30053,
-    "opened_at": "2026-08-31T05:00:33+00:00",
-    "closed_at": "2026-08-31T05:00:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30055": {
-    "coin": "PUMPFUN",
-    "direction": "LONG",
-    "entry_price": 0.00439,
-    "take_profits": [
-      0.0044339,
-      0.00449975,
-      0.0046095
-    ],
-    "stop_loss": 0.0043,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2506,
-    "source_msg_id": 30055,
-    "forwarded_msg_id": 30054,
-    "opened_at": "2026-08-31T00:01:05+00:00",
-    "closed_at": "2026-08-31T00:01:05+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30056": {
-    "coin": "HYPE",
-    "direction": "LONG",
-    "entry_price": 79.33,
-    "take_profits": [
-      80.24,
-      81.43,
-      83.42
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 13.7394,
-    "source_msg_id": 30056,
-    "forwarded_msg_id": 30055,
-    "opened_at": "2026-08-30T23:45:33+00:00",
-    "closed_at": "2026-08-30T23:45:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30057": {
-    "coin": "APT",
-    "direction": "LONG",
-    "entry_price": 0.51415,
-    "take_profits": [
-      0.5201,
-      0.5278,
-      0.5406
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0134,
-    "source_msg_id": 30057,
-    "forwarded_msg_id": 30056,
-    "opened_at": "2026-08-30T23:45:33+00:00",
-    "closed_at": "2026-08-30T23:45:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30058": {
-    "coin": "SUI",
-    "direction": "LONG",
-    "entry_price": 0.70345,
-    "take_profits": [
-      0.7104845,
-      0.72103625,
-      0.7386225
-    ],
-    "stop_loss": 0.7116,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.5481,
-    "source_msg_id": 30058,
-    "forwarded_msg_id": 30057,
-    "opened_at": "2026-08-30T23:45:32+00:00",
-    "closed_at": "2026-08-30T23:45:32+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30059": {
-    "coin": "ADA",
-    "direction": "LONG",
-    "entry_price": 0.19140000000000001,
-    "take_profits": [
-      0.193314,
-      0.196185,
-      0.20097
-    ],
-    "stop_loss": 0.1936,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.0199,
-    "source_msg_id": 30059,
-    "forwarded_msg_id": 30058,
-    "opened_at": "2026-08-30T23:45:31+00:00",
-    "closed_at": "2026-08-30T23:45:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30060": {
-    "coin": "ENA",
-    "direction": "LONG",
-    "entry_price": 0.15516000000000002,
-    "take_profits": [
-      0.1567116,
-      0.159039,
-      0.162918
-    ],
-    "stop_loss": 0.15198,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2475,
-    "source_msg_id": 30060,
-    "forwarded_msg_id": 30059,
-    "opened_at": "2026-08-30T23:00:34+00:00",
-    "closed_at": "2026-08-30T23:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30061": {
-    "coin": "TRUMP",
-    "direction": "LONG",
-    "entry_price": 2.4074999999999998,
-    "take_profits": [
-      2.431575,
-      2.4676875,
-      2.527875
-    ],
-    "stop_loss": 2.358,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2804,
-    "source_msg_id": 30061,
-    "forwarded_msg_id": 30060,
-    "opened_at": "2026-08-30T23:00:33+00:00",
-    "closed_at": "2026-08-30T23:00:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30062": {
-    "coin": "DOGE",
-    "direction": "LONG",
-    "entry_price": 0.08415,
-    "take_profits": [
-      0.0849915,
-      0.08625375,
-      0.0883575
-    ],
-    "stop_loss": 0.0824,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.3981,
-    "source_msg_id": 30062,
-    "forwarded_msg_id": 30061,
-    "opened_at": "2026-08-30T21:30:32+00:00",
-    "closed_at": "2026-08-30T21:30:32+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30063": {
-    "coin": "SOL",
-    "direction": "LONG",
-    "entry_price": 103.605,
-    "take_profits": [
-      104.64105,
-      106.195125,
-      108.78525
-    ],
-    "stop_loss": 101.48,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2553,
-    "source_msg_id": 30063,
-    "forwarded_msg_id": 30062,
-    "opened_at": "2026-08-30T21:30:31+00:00",
-    "closed_at": "2026-08-30T21:30:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30064": {
-    "coin": "MAGMA",
-    "direction": "LONG",
-    "entry_price": 0.4139,
-    "take_profits": [
-      0.418039,
-      0.4242475,
-      0.434595
-    ],
-    "stop_loss": 0.4054,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2682,
-    "source_msg_id": 30064,
-    "forwarded_msg_id": 30063,
-    "opened_at": "2026-08-30T19:30:35+00:00",
-    "closed_at": "2026-08-30T19:30:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30065": {
-    "coin": "SOXL",
-    "direction": "LONG",
-    "entry_price": 112.34,
-    "take_profits": [
-      113.4634,
-      115.1485,
-      117.957
-    ],
-    "stop_loss": 110.04,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2368,
-    "source_msg_id": 30065,
-    "forwarded_msg_id": 30064,
-    "opened_at": "2026-08-30T03:30:34+00:00",
-    "closed_at": "2026-08-30T03:30:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30066": {
-    "coin": "TRUMP",
-    "direction": "LONG",
-    "entry_price": 2.592,
-    "take_profits": [
-      2.61792,
-      2.6568,
-      2.7216
-    ],
-    "stop_loss": 2.594666666666667,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1069,
-    "source_msg_id": 30066,
-    "forwarded_msg_id": 30065,
-    "opened_at": "2026-08-30T02:15:34+00:00",
-    "closed_at": "2026-08-30T02:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30067": {
-    "coin": "FARTCOIN",
-    "direction": "LONG",
-    "entry_price": 0.188965,
-    "take_profits": [
-      0.19085465,
-      0.19368912,
-      0.19841325
-    ],
-    "stop_loss": 0.19114,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.7542,
-    "source_msg_id": 30067,
-    "forwarded_msg_id": 30066,
-    "opened_at": "2026-08-29T09:15:36+00:00",
-    "closed_at": "2026-08-29T09:15:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30068": {
-    "coin": "SOL",
-    "direction": "LONG",
-    "entry_price": 103.595,
-    "take_profits": [
-      104.63095,
-      106.184875,
-      108.77475
-    ],
-    "stop_loss": 104.78,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.9782,
-    "source_msg_id": 30068,
-    "forwarded_msg_id": 30067,
-    "opened_at": "2026-08-29T03:15:31+00:00",
-    "closed_at": "2026-08-29T03:15:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30069": {
-    "coin": "TRUMP",
-    "direction": "LONG",
-    "entry_price": 2.725,
-    "take_profits": [
-      2.75225,
-      2.793125,
-      2.86125
-    ],
-    "stop_loss": 2.725,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.5688,
-    "source_msg_id": 30069,
-    "forwarded_msg_id": 30068,
-    "opened_at": "2026-08-29T02:30:34+00:00",
-    "closed_at": "2026-08-29T02:30:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30070": {
-    "coin": "MOVR",
-    "direction": "LONG",
-    "entry_price": 0.852,
-    "take_profits": [
-      0.86052,
-      0.8733,
-      0.8946
-    ],
-    "stop_loss": 0.852,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3474,
-    "source_msg_id": 30070,
-    "forwarded_msg_id": 30069,
-    "opened_at": "2026-08-28T18:00:34+00:00",
-    "closed_at": "2026-08-28T18:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30071": {
-    "coin": "TAO",
-    "direction": "LONG",
-    "entry_price": 237.32,
-    "take_profits": [
-      239.6932,
-      243.253,
-      249.186
-    ],
-    "stop_loss": 232.45,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2604,
-    "source_msg_id": 30071,
-    "forwarded_msg_id": 30070,
-    "opened_at": "2026-08-28T16:45:35+00:00",
-    "closed_at": "2026-08-28T16:45:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30072": {
-    "coin": "PUMPFUN",
-    "direction": "LONG",
-    "entry_price": 0.0045895,
-    "take_profits": [
-      0.00463539,
-      0.00470424,
-      0.00481897
-    ],
-    "stop_loss": 0.004591666666666667,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1924,
-    "source_msg_id": 30072,
-    "forwarded_msg_id": 30071,
-    "opened_at": "2026-08-28T16:45:35+00:00",
-    "closed_at": "2026-08-28T16:45:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30073": {
-    "coin": "1000PEPE",
-    "direction": "LONG",
-    "entry_price": 0.0036544999999999998,
-    "take_profits": [
-      0.00369105,
-      0.00374586,
-      0.00383723
-    ],
-    "stop_loss": 0.0036544999999999998,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3259,
-    "source_msg_id": 30073,
-    "forwarded_msg_id": 30072,
-    "opened_at": "2026-08-28T16:45:34+00:00",
-    "closed_at": "2026-08-28T16:45:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30074": {
-    "coin": "ETH",
-    "direction": "LONG",
-    "entry_price": 2465.6549999999997,
-    "take_profits": [
-      2490.31155,
-      2527.296375,
-      2588.93775
-    ],
-    "stop_loss": 2415.03,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.266,
-    "source_msg_id": 30074,
-    "forwarded_msg_id": 30073,
-    "opened_at": "2026-08-28T16:00:30+00:00",
-    "closed_at": "2026-08-28T16:00:30+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30075": {
-    "coin": "XAU",
-    "direction": "LONG",
-    "entry_price": 4543.995,
-    "take_profits": [
-      4589.43495,
-      4657.594875,
-      4771.19475
-    ],
-    "stop_loss": 4450.71,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2646,
-    "source_msg_id": 30075,
-    "forwarded_msg_id": 30074,
-    "opened_at": "2026-08-28T14:30:34+00:00",
-    "closed_at": "2026-08-28T14:30:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30076": {
-    "coin": "XRP",
-    "direction": "LONG",
-    "entry_price": 1.3936,
-    "take_profits": [
-      1.407536,
-      1.42844,
-      1.46328
-    ],
-    "stop_loss": 1.3957,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.0062,
-    "source_msg_id": 30076,
-    "forwarded_msg_id": 30075,
-    "opened_at": "2026-08-28T14:30:31+00:00",
-    "closed_at": "2026-08-28T14:30:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30077": {
-    "coin": "SOXL",
-    "direction": "LONG",
-    "entry_price": 118.52000000000001,
-    "take_profits": [
-      119.7052,
-      121.483,
-      124.446
-    ],
-    "stop_loss": 118.52000000000001,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.295,
-    "source_msg_id": 30077,
-    "forwarded_msg_id": 30076,
-    "opened_at": "2026-08-28T14:00:34+00:00",
-    "closed_at": "2026-08-28T14:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30078": {
-    "coin": "CL",
-    "direction": "LONG",
-    "entry_price": 82.785,
-    "take_profits": [
-      83.74,
-      84.99,
-      87.06
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0484,
-    "source_msg_id": 30078,
-    "forwarded_msg_id": 30077,
-    "opened_at": "2026-08-28T06:30:37+00:00",
-    "closed_at": "2026-08-28T06:30:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30079": {
-    "coin": "SNXX",
-    "direction": "LONG",
-    "entry_price": 12.440000000000001,
-    "take_profits": [
-      12.5644,
-      12.751,
-      13.062
-    ],
-    "stop_loss": 12.19,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.0482,
-    "source_msg_id": 30079,
-    "forwarded_msg_id": 30078,
-    "opened_at": "2026-08-28T03:30:35+00:00",
-    "closed_at": "2026-08-28T03:30:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30080": {
-    "coin": "BTR",
-    "direction": "LONG",
-    "entry_price": 0.15400999999999998,
-    "take_profits": [
-      0.1555501,
-      0.15786025,
-      0.1617105
-    ],
-    "stop_loss": 0.15084,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2915,
-    "source_msg_id": 30080,
-    "forwarded_msg_id": 30079,
-    "opened_at": "2026-08-28T03:00:33+00:00",
-    "closed_at": "2026-08-28T03:00:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30081": {
+  "2336": {
     "coin": "ONG",
     "direction": "LONG",
-    "entry_price": 0.11799,
+    "entry_price": 0.07919,
     "take_profits": [
-      0.1191699,
-      0.12093975,
-      0.1238895
+      0.07999,
+      0.08117,
+      0.08315
     ],
-    "stop_loss": 0.11935,
+    "stop_loss": 0.07745,
     "leverage": 5,
-    "status": "TP2",
+    "status": "SL",
     "tps_hit": [
       1,
       2
     ],
-    "pnl_pct": 7.7552,
-    "source_msg_id": 30081,
-    "forwarded_msg_id": 30080,
-    "opened_at": "2026-08-28T02:45:34+00:00",
-    "closed_at": "2026-08-28T02:45:34+00:00",
+    "pnl_pct": 7.532,
+    "source_msg_id": 2336,
+    "forwarded_msg_id": 2336,
+    "opened_at": "2026-08-22T05:15:35+00:00",
+    "closed_at": "2026-08-22T06:42:29+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30082": {
-    "coin": "FARTCOIN",
+  "2338": {
+    "coin": "BEAT",
     "direction": "LONG",
-    "entry_price": 0.20735,
+    "entry_price": 0.15689,
     "take_profits": [
-      0.2094235,
-      0.21253375,
-      0.2177175
+      0.15845,
+      0.16081,
+      0.16473
     ],
-    "stop_loss": 0.20735,
+    "stop_loss": 0.15343,
     "leverage": 5,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 2.3053,
-    "source_msg_id": 30082,
-    "forwarded_msg_id": 30081,
-    "opened_at": "2026-08-28T02:15:35+00:00",
-    "closed_at": "2026-08-28T02:15:35+00:00",
+    "pnl_pct": 2.2981,
+    "source_msg_id": 2338,
+    "forwarded_msg_id": 2338,
+    "opened_at": "2026-08-22T05:15:37+00:00",
+    "closed_at": "2026-08-22T05:45:13+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30083": {
+  "2340": {
+    "coin": "HEMI",
+    "direction": "LONG",
+    "entry_price": 0.00977,
+    "take_profits": [
+      0.00987,
+      0.01001,
+      0.01026
+    ],
+    "stop_loss": 0.00956,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.1505,
+    "source_msg_id": 2340,
+    "forwarded_msg_id": 2340,
+    "opened_at": "2026-08-22T05:15:38+00:00",
+    "closed_at": "2026-08-22T06:11:48+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2348": {
+    "coin": "SOXL",
+    "direction": "LONG",
+    "entry_price": 117.08,
+    "take_profits": [
+      118.25,
+      120.0,
+      122.93
+    ],
+    "stop_loss": 114.5,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.4915,
+    "source_msg_id": 2348,
+    "forwarded_msg_id": 2348,
+    "opened_at": "2026-08-22T05:30:34+00:00",
+    "closed_at": "2026-08-24T02:00:59+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2350": {
+    "coin": "SNDK",
+    "direction": "LONG",
+    "entry_price": 1589.0,
+    "take_profits": [
+      1604.9,
+      1628.7,
+      1668.5
+    ],
+    "stop_loss": 1554.0,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.2049,
+    "source_msg_id": 2350,
+    "forwarded_msg_id": 2350,
+    "opened_at": "2026-08-22T05:30:35+00:00",
+    "closed_at": "2026-08-24T00:36:46+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2352": {
+    "coin": "WLD",
+    "direction": "LONG",
+    "entry_price": 0.3899,
+    "take_profits": [
+      0.3937,
+      0.3996,
+      0.4093
+    ],
+    "stop_loss": 0.3813,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.0529,
+    "source_msg_id": 2352,
+    "forwarded_msg_id": 2352,
+    "opened_at": "2026-08-22T05:30:35+00:00",
+    "closed_at": "2026-08-22T10:12:18+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2357": {
     "coin": "SKHYNIX",
     "direction": "LONG",
-    "entry_price": 1224.48,
+    "entry_price": 1232.63,
     "take_profits": [
-      1236.7248,
-      1255.092,
-      1285.704
+      1244.96,
+      1263.45,
+      1294.26
     ],
-    "stop_loss": 1224.48,
+    "stop_loss": 1205.51,
     "leverage": 5,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 2.303,
-    "source_msg_id": 30083,
-    "forwarded_msg_id": 30082,
-    "opened_at": "2026-08-27T14:15:35+00:00",
-    "closed_at": "2026-08-27T14:15:35+00:00",
+    "pnl_pct": 2.3042,
+    "source_msg_id": 2357,
+    "forwarded_msg_id": 2357,
+    "opened_at": "2026-08-22T05:45:35+00:00",
+    "closed_at": "2026-08-24T02:52:30+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30084": {
-    "coin": "CASHCAT",
+  "2385": {
+    "coin": "ZEC",
     "direction": "LONG",
-    "entry_price": 0.222525,
+    "entry_price": 789.9,
     "take_profits": [
-      0.22475025,
-      0.22808812,
-      0.23365125
+      797.8,
+      809.6,
+      829.4
     ],
-    "stop_loss": 0.22263666666666665,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1949,
-    "source_msg_id": 30084,
-    "forwarded_msg_id": 30083,
-    "opened_at": "2026-08-27T11:00:37+00:00",
-    "closed_at": "2026-08-27T11:00:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30085": {
-    "coin": "FARTCOIN",
-    "direction": "LONG",
-    "entry_price": 0.201575,
-    "take_profits": [
-      0.20359075,
-      0.20661437,
-      0.21165375
-    ],
-    "stop_loss": 0.19744,
+    "stop_loss": 772.5,
     "leverage": 5,
     "status": "SL",
     "tps_hit": [],
-    "pnl_pct": -10.2567,
-    "source_msg_id": 30085,
-    "forwarded_msg_id": 30084,
-    "opened_at": "2026-08-27T05:30:35+00:00",
-    "closed_at": "2026-08-27T05:30:35+00:00",
+    "pnl_pct": -10.2701,
+    "source_msg_id": 2385,
+    "forwarded_msg_id": 2385,
+    "opened_at": "2026-08-23T02:30:33+00:00",
+    "closed_at": "2026-08-23T04:47:51+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30086": {
-    "coin": "ENA",
+  "2388": {
+    "coin": "HEMI",
     "direction": "LONG",
-    "entry_price": 0.145005,
+    "entry_price": 0.0098,
     "take_profits": [
-      0.14645505,
-      0.14863012,
-      0.15225525
+      0.009898,
+      0.010045,
+      0.01029
     ],
-    "stop_loss": 0.145005,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.2965,
-    "source_msg_id": 30086,
-    "forwarded_msg_id": 30085,
-    "opened_at": "2026-08-27T02:15:34+00:00",
-    "closed_at": "2026-08-27T02:15:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30087": {
-    "coin": "TRUMP",
-    "direction": "LONG",
-    "entry_price": 2.144,
-    "take_profits": [
-      2.169,
-      2.201,
-      2.255
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 13.3675,
-    "source_msg_id": 30087,
-    "forwarded_msg_id": 30086,
-    "opened_at": "2026-08-26T15:30:36+00:00",
-    "closed_at": "2026-08-26T15:30:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30088": {
-    "coin": "LIT",
-    "direction": "LONG",
-    "entry_price": 3.1895,
-    "take_profits": [
-      3.221395,
-      3.2692375,
-      3.348975
-    ],
-    "stop_loss": 3.1895000000000002,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.2888,
-    "source_msg_id": 30088,
-    "forwarded_msg_id": 30087,
-    "opened_at": "2026-08-26T14:45:37+00:00",
-    "closed_at": "2026-08-26T14:45:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30089": {
-    "coin": "WLD",
-    "direction": "LONG",
-    "entry_price": 0.3776,
-    "take_profits": [
-      0.381376,
-      0.38704,
-      0.39648
-    ],
-    "stop_loss": 0.3776,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.2775,
-    "source_msg_id": 30089,
-    "forwarded_msg_id": 30088,
-    "opened_at": "2026-08-25T21:30:37+00:00",
-    "closed_at": "2026-08-25T21:30:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30090": {
-    "coin": "LTC",
-    "direction": "LONG",
-    "entry_price": 49.635000000000005,
-    "take_profits": [
-      50.13135,
-      50.875875,
-      52.11675
-    ],
-    "stop_loss": 49.635000000000005,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3169,
-    "source_msg_id": 30090,
-    "forwarded_msg_id": 30089,
-    "opened_at": "2026-08-25T21:30:33+00:00",
-    "closed_at": "2026-08-25T21:30:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30091": {
-    "coin": "LINK",
-    "direction": "LONG",
-    "entry_price": 11.197,
-    "take_profits": [
-      11.30897,
-      11.476925,
-      11.75685
-    ],
-    "stop_loss": 11.214,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 1.9975,
-    "source_msg_id": 30091,
-    "forwarded_msg_id": 30090,
-    "opened_at": "2026-08-25T21:30:32+00:00",
-    "closed_at": "2026-08-25T21:30:32+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30092": {
-    "coin": "XRP",
-    "direction": "LONG",
-    "entry_price": 1.4194499999999999,
-    "take_profits": [
-      1.4336445,
-      1.45493625,
-      1.4904225
-    ],
-    "stop_loss": 1.4216,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 1.9977,
-    "source_msg_id": 30092,
-    "forwarded_msg_id": 30091,
-    "opened_at": "2026-08-25T21:30:31+00:00",
-    "closed_at": "2026-08-25T21:30:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30093": {
-    "coin": "TAO",
-    "direction": "LONG",
-    "entry_price": 227.37,
-    "take_profits": [
-      229.6437,
-      233.05425,
-      238.7385
-    ],
-    "stop_loss": 229.99,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 8.0178,
-    "source_msg_id": 30093,
-    "forwarded_msg_id": 30092,
-    "opened_at": "2026-08-25T21:00:37+00:00",
-    "closed_at": "2026-08-25T21:00:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30094": {
-    "coin": "VELVET",
-    "direction": "LONG",
-    "entry_price": 0.1377,
-    "take_profits": [
-      0.139077,
-      0.1411425,
-      0.144585
-    ],
-    "stop_loss": 0.13776666666666665,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.226,
-    "source_msg_id": 30094,
-    "forwarded_msg_id": 30093,
-    "opened_at": "2026-08-25T14:30:35+00:00",
-    "closed_at": "2026-08-25T14:30:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30095": {
-    "coin": "DOGE",
-    "direction": "LONG",
-    "entry_price": 0.08767,
-    "take_profits": [
-      0.0885467,
-      0.08986175,
-      0.0920535
-    ],
-    "stop_loss": 0.08587,
+    "stop_loss": 0.009585,
     "leverage": 5,
     "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2658,
-    "source_msg_id": 30095,
-    "forwarded_msg_id": 30094,
-    "opened_at": "2026-08-25T14:15:32+00:00",
-    "closed_at": "2026-08-25T14:15:32+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30096": {
-    "coin": "PUMPFUN",
-    "direction": "LONG",
-    "entry_price": 0.004562,
-    "take_profits": [
-      0.00460762,
-      0.00467605,
-      0.0047901
-    ],
-    "stop_loss": 0.004615,
-    "leverage": 5,
-    "status": "TP2",
     "tps_hit": [
-      1,
-      2
+      1
     ],
-    "pnl_pct": 8.0447,
-    "source_msg_id": 30096,
-    "forwarded_msg_id": 30095,
-    "opened_at": "2026-08-25T13:45:35+00:00",
-    "closed_at": "2026-08-25T13:45:35+00:00",
+    "pnl_pct": 2.1994,
+    "source_msg_id": 2388,
+    "forwarded_msg_id": 2388,
+    "opened_at": "2026-08-23T03:00:37+00:00",
+    "closed_at": "2026-08-23T04:35:44+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30097": {
+  "2397": {
     "coin": "SOL",
     "direction": "LONG",
-    "entry_price": 96.815,
+    "entry_price": 93.61,
     "take_profits": [
-      97.78315,
-      99.235375,
-      101.65575
+      94.54,
+      95.95,
+      98.29
     ],
-    "stop_loss": 96.815,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3034,
-    "source_msg_id": 30097,
-    "forwarded_msg_id": 30096,
-    "opened_at": "2026-08-25T13:45:31+00:00",
-    "closed_at": "2026-08-25T13:45:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30098": {
-    "coin": "ADA",
-    "direction": "LONG",
-    "entry_price": 0.2205,
-    "take_profits": [
-      0.222705,
-      0.2260125,
-      0.231525
-    ],
-    "stop_loss": 0.216,
+    "stop_loss": 91.55,
     "leverage": 5,
     "status": "SL",
     "tps_hit": [],
-    "pnl_pct": -10.2041,
-    "source_msg_id": 30098,
-    "forwarded_msg_id": 30097,
-    "opened_at": "2026-08-25T08:30:32+00:00",
-    "closed_at": "2026-08-25T08:30:32+00:00",
+    "pnl_pct": -10.2707,
+    "source_msg_id": 2397,
+    "forwarded_msg_id": 2397,
+    "opened_at": "2026-08-23T04:15:31+00:00",
+    "closed_at": "2026-08-23T05:17:19+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30099": {
-    "coin": "TAO",
-    "direction": "LONG",
-    "entry_price": 234.65,
-    "take_profits": [
-      236.9965,
-      240.51625,
-      246.3825
-    ],
-    "stop_loss": 234.88333333333333,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1429,
-    "source_msg_id": 30099,
-    "forwarded_msg_id": 30098,
-    "opened_at": "2026-08-25T08:00:39+00:00",
-    "closed_at": "2026-08-25T08:00:39+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30100": {
-    "coin": "XPL",
-    "direction": "LONG",
-    "entry_price": 0.09445,
-    "take_profits": [
-      0.09554,
-      0.09696,
-      0.09932
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0286,
-    "source_msg_id": 30100,
-    "forwarded_msg_id": 30099,
-    "opened_at": "2026-08-24T18:00:35+00:00",
-    "closed_at": "2026-08-24T18:00:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30101": {
-    "coin": "PUMPFUN",
-    "direction": "LONG",
-    "entry_price": 0.004646,
-    "take_profits": [
-      0.00469246,
-      0.00476215,
-      0.0048783
-    ],
-    "stop_loss": 0.004653,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 1.9772,
-    "source_msg_id": 30101,
-    "forwarded_msg_id": 30100,
-    "opened_at": "2026-08-24T18:00:34+00:00",
-    "closed_at": "2026-08-24T18:00:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30102": {
-    "coin": "ENA",
-    "direction": "LONG",
-    "entry_price": 0.15287,
-    "take_profits": [
-      0.1543987,
-      0.15669175,
-      0.1605135
-    ],
-    "stop_loss": 0.15287,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3026,
-    "source_msg_id": 30102,
-    "forwarded_msg_id": 30101,
-    "opened_at": "2026-08-24T18:00:33+00:00",
-    "closed_at": "2026-08-24T18:00:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30103": {
-    "coin": "WLD",
-    "direction": "LONG",
-    "entry_price": 0.38675,
-    "take_profits": [
-      0.3906175,
-      0.39641875,
-      0.4060875
-    ],
-    "stop_loss": 0.3912,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.2812,
-    "source_msg_id": 30103,
-    "forwarded_msg_id": 30102,
-    "opened_at": "2026-08-24T02:15:35+00:00",
-    "closed_at": "2026-08-24T02:15:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30104": {
-    "coin": "TRUMP",
-    "direction": "LONG",
-    "entry_price": 2.4764999999999997,
-    "take_profits": [
-      2.501265,
-      2.5384125,
-      2.600325
-    ],
-    "stop_loss": 2.4764999999999997,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3016,
-    "source_msg_id": 30104,
-    "forwarded_msg_id": 30103,
-    "opened_at": "2026-08-24T02:15:33+00:00",
-    "closed_at": "2026-08-24T02:15:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30105": {
-    "coin": "ACE",
-    "direction": "LONG",
-    "entry_price": 0.224855,
-    "take_profits": [
-      0.22710355,
-      0.23047637,
-      0.23609775
-    ],
-    "stop_loss": 0.22496666666666665,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.2077,
-    "source_msg_id": 30105,
-    "forwarded_msg_id": 30104,
-    "opened_at": "2026-08-23T20:30:37+00:00",
-    "closed_at": "2026-08-23T20:30:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30106": {
+  "2399": {
     "coin": "1000BONK",
     "direction": "LONG",
-    "entry_price": 0.0030195,
+    "entry_price": 0.003024,
     "take_profits": [
       0.003055,
       0.0031,
       0.003176
     ],
-    "stop_loss": 0.0,
+    "stop_loss": 0.002958,
     "leverage": 5,
     "status": "CLOSED",
     "tps_hit": [
@@ -2434,504 +245,139 @@
       3
     ],
     "pnl_pct": 13.3598,
-    "source_msg_id": 30106,
-    "forwarded_msg_id": 30105,
+    "source_msg_id": 2399,
+    "forwarded_msg_id": 2399,
     "opened_at": "2026-08-23T04:15:38+00:00",
-    "closed_at": "2026-08-23T04:15:38+00:00",
+    "closed_at": "2026-08-23T08:41:18+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30107": {
-    "coin": "SOL",
+  "2444": {
+    "coin": "ACE",
     "direction": "LONG",
-    "entry_price": 93.47,
+    "entry_price": 0.22519,
     "take_profits": [
-      94.4047,
-      95.80675,
-      98.1435
+      0.22745,
+      0.23082,
+      0.23645
     ],
-    "stop_loss": 91.55,
+    "stop_loss": 0.22024,
     "leverage": 5,
     "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2707,
-    "source_msg_id": 30107,
-    "forwarded_msg_id": 30106,
-    "opened_at": "2026-08-23T04:15:31+00:00",
-    "closed_at": "2026-08-23T04:15:31+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30108": {
-    "coin": "HEMI",
-    "direction": "LONG",
-    "entry_price": 0.009785499999999999,
-    "take_profits": [
-      0.00988335,
-      0.01003014,
-      0.01027477
-    ],
-    "stop_loss": 0.009790333333333333,
-    "leverage": 5,
-    "status": "TP1",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 2.1994,
-    "source_msg_id": 30108,
-    "forwarded_msg_id": 30107,
-    "opened_at": "2026-08-23T03:00:37+00:00",
-    "closed_at": "2026-08-23T03:00:37+00:00",
+    "pnl_pct": 2.2077,
+    "source_msg_id": 2444,
+    "forwarded_msg_id": 2444,
+    "opened_at": "2026-08-23T20:30:37+00:00",
+    "closed_at": "2026-08-24T16:00:10+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30109": {
-    "coin": "ZEC",
+  "2498": {
+    "coin": "TRUMP",
     "direction": "LONG",
-    "entry_price": 788.7,
+    "entry_price": 2.48,
     "take_profits": [
-      796.587,
-      808.4175,
-      828.135
+      2.505,
+      2.542,
+      2.604
     ],
-    "stop_loss": 772.5,
+    "stop_loss": 2.426,
     "leverage": 5,
     "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2701,
-    "source_msg_id": 30109,
-    "forwarded_msg_id": 30108,
-    "opened_at": "2026-08-23T02:30:33+00:00",
-    "closed_at": "2026-08-23T02:30:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30110": {
-    "coin": "SKHYNIX",
-    "direction": "LONG",
-    "entry_price": 1230.7800000000002,
-    "take_profits": [
-      1243.0878,
-      1261.5495,
-      1292.319
-    ],
-    "stop_loss": 1230.78,
-    "leverage": 5,
-    "status": "TP1",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 2.3042,
-    "source_msg_id": 30110,
-    "forwarded_msg_id": 30109,
-    "opened_at": "2026-08-22T05:45:35+00:00",
-    "closed_at": "2026-08-22T05:45:35+00:00",
+    "pnl_pct": 2.3016,
+    "source_msg_id": 2498,
+    "forwarded_msg_id": 2498,
+    "opened_at": "2026-08-24T02:15:33+00:00",
+    "closed_at": "2026-08-24T05:06:02+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30111": {
+  "2500": {
     "coin": "WLD",
     "direction": "LONG",
-    "entry_price": 0.3893,
+    "entry_price": 0.3873,
     "take_profits": [
-      0.393193,
-      0.3990325,
-      0.408765
+      0.3912,
+      0.397,
+      0.4067
     ],
-    "stop_loss": 0.38970000000000005,
+    "stop_loss": 0.3788,
     "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.0529,
-    "source_msg_id": 30111,
-    "forwarded_msg_id": 30110,
-    "opened_at": "2026-08-22T05:30:35+00:00",
-    "closed_at": "2026-08-22T05:30:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30112": {
-    "coin": "SNDK",
-    "direction": "LONG",
-    "entry_price": 1586.6,
-    "take_profits": [
-      1602.466,
-      1626.265,
-      1665.93
-    ],
-    "stop_loss": 1587.3999999999999,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.2049,
-    "source_msg_id": 30112,
-    "forwarded_msg_id": 30111,
-    "opened_at": "2026-08-22T05:30:35+00:00",
-    "closed_at": "2026-08-22T05:30:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30113": {
-    "coin": "SOXL",
-    "direction": "LONG",
-    "entry_price": 116.905,
-    "take_profits": [
-      118.07405,
-      119.827625,
-      122.75025
-    ],
-    "stop_loss": 118.25,
-    "leverage": 5,
-    "status": "TP2",
+    "status": "SL",
     "tps_hit": [
       1,
       2
     ],
-    "pnl_pct": 7.4915,
-    "source_msg_id": 30113,
-    "forwarded_msg_id": 30112,
-    "opened_at": "2026-08-22T05:30:33+00:00",
-    "closed_at": "2026-08-22T05:30:33+00:00",
+    "pnl_pct": 7.2812,
+    "source_msg_id": 2500,
+    "forwarded_msg_id": 2500,
+    "opened_at": "2026-08-24T02:15:35+00:00",
+    "closed_at": "2026-08-25T15:14:18+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30114": {
-    "coin": "HEMI",
+  "2544": {
+    "coin": "ENA",
     "direction": "LONG",
-    "entry_price": 0.009755,
+    "entry_price": 0.1531,
     "take_profits": [
-      0.00985255,
-      0.00999887,
-      0.01024275
+      0.15463,
+      0.15692,
+      0.16075
     ],
-    "stop_loss": 0.009765,
+    "stop_loss": 0.14973,
     "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.1505,
-    "source_msg_id": 30114,
-    "forwarded_msg_id": 30113,
-    "opened_at": "2026-08-22T05:15:38+00:00",
-    "closed_at": "2026-08-22T05:15:38+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30115": {
-    "coin": "BEAT",
-    "direction": "LONG",
-    "entry_price": 0.15665,
-    "take_profits": [
-      0.1582165,
-      0.16056625,
-      0.1644825
-    ],
-    "stop_loss": 0.15665,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.2981,
-    "source_msg_id": 30115,
-    "forwarded_msg_id": 30114,
-    "opened_at": "2026-08-22T05:15:37+00:00",
-    "closed_at": "2026-08-22T05:15:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30116": {
-    "coin": "ONG",
-    "direction": "LONG",
-    "entry_price": 0.079075,
-    "take_profits": [
-      0.07986575,
-      0.08105187,
-      0.08302875
-    ],
-    "stop_loss": 0.07999,
-    "leverage": 5,
-    "status": "TP2",
-    "tps_hit": [
-      1,
-      2
-    ],
-    "pnl_pct": 7.532,
-    "source_msg_id": 30116,
-    "forwarded_msg_id": 30115,
-    "opened_at": "2026-08-22T05:15:35+00:00",
-    "closed_at": "2026-08-22T05:15:35+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30117": {
-    "coin": "SNDK",
-    "direction": "LONG",
-    "entry_price": 1582.905,
-    "take_profits": [
-      1598.73405,
-      1622.477625,
-      1662.05025
-    ],
-    "stop_loss": 1585.28,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.0009,
-    "source_msg_id": 30117,
-    "forwarded_msg_id": 30116,
-    "opened_at": "2026-08-21T15:00:33+00:00",
-    "closed_at": "2026-08-21T15:00:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30118": {
-    "coin": "SNXX",
-    "direction": "LONG",
-    "entry_price": 14.844999999999999,
-    "take_profits": [
-      14.99345,
-      15.216125,
-      15.58725
-    ],
-    "stop_loss": 14.87,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.0175,
-    "source_msg_id": 30118,
-    "forwarded_msg_id": 30117,
-    "opened_at": "2026-08-21T14:00:36+00:00",
-    "closed_at": "2026-08-21T14:00:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30119": {
-    "coin": "ACE",
-    "direction": "LONG",
-    "entry_price": 0.23112,
-    "take_profits": [
-      0.2334312,
-      0.236898,
-      0.242676
-    ],
-    "stop_loss": 0.23112000000000002,
-    "leverage": 5,
-    "status": "TP1",
-    "tps_hit": [
-      1
-    ],
-    "pnl_pct": 2.3018,
-    "source_msg_id": 30119,
-    "forwarded_msg_id": 30118,
-    "opened_at": "2026-08-21T09:15:36+00:00",
-    "closed_at": "2026-08-21T09:15:36+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30120": {
-    "coin": "ACE",
-    "direction": "LONG",
-    "entry_price": 0.23342000000000002,
-    "take_profits": [
-      0.23611,
-      0.23962,
-      0.24546
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 13.2566,
-    "source_msg_id": 30120,
-    "forwarded_msg_id": 30119,
-    "opened_at": "2026-08-21T02:15:37+00:00",
-    "closed_at": "2026-08-21T02:15:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30121": {
-    "coin": "SNXX",
-    "direction": "LONG",
-    "entry_price": 13.93,
-    "take_profits": [
-      14.09,
-      14.3,
-      14.65
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0345,
-    "source_msg_id": 30121,
-    "forwarded_msg_id": 30120,
-    "opened_at": "2026-08-20T12:30:34+00:00",
-    "closed_at": "2026-08-20T12:30:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30122": {
-    "coin": "XAU",
-    "direction": "LONG",
-    "entry_price": 4462.155,
-    "take_profits": [
-      4513.54,
-      4580.58,
-      4692.3
-    ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 13.7634,
-    "source_msg_id": 30122,
-    "forwarded_msg_id": 30121,
-    "opened_at": "2026-08-20T12:15:33+00:00",
-    "closed_at": "2026-08-20T12:15:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30123": {
-    "coin": "MU",
-    "direction": "LONG",
-    "entry_price": 935.885,
-    "take_profits": [
-      945.24385,
-      959.282125,
-      982.67925
-    ],
-    "stop_loss": 935.885,
-    "leverage": 5,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
     "pnl_pct": 2.3026,
-    "source_msg_id": 30123,
-    "forwarded_msg_id": 30122,
-    "opened_at": "2026-08-20T11:45:36+00:00",
-    "closed_at": "2026-08-20T11:45:36+00:00",
+    "source_msg_id": 2544,
+    "forwarded_msg_id": 2544,
+    "opened_at": "2026-08-24T18:00:33+00:00",
+    "closed_at": "2026-08-24T21:56:43+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30124": {
-    "coin": "SPCX",
+  "2546": {
+    "coin": "PUMPFUN",
     "direction": "LONG",
-    "entry_price": 137.52499999999998,
+    "entry_price": 0.004653,
     "take_profits": [
-      138.90025,
-      140.963125,
-      144.40125
+      0.004699,
+      0.004769,
+      0.004885
     ],
-    "stop_loss": 134.7,
+    "stop_loss": 0.00455,
     "leverage": 5,
     "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2709,
-    "source_msg_id": 30124,
-    "forwarded_msg_id": 30123,
-    "opened_at": "2026-08-20T09:30:34+00:00",
-    "closed_at": "2026-08-20T09:30:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30125": {
-    "coin": "ACE",
-    "direction": "LONG",
-    "entry_price": 0.18787,
-    "take_profits": [
-      0.1897487,
-      0.19256675,
-      0.1972635
-    ],
-    "stop_loss": 0.18402,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2464,
-    "source_msg_id": 30125,
-    "forwarded_msg_id": 30124,
-    "opened_at": "2026-08-20T04:30:37+00:00",
-    "closed_at": "2026-08-20T04:30:37+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30126": {
-    "coin": "SPCX",
-    "direction": "LONG",
-    "entry_price": 140.76,
-    "take_profits": [
-      142.1676,
-      144.279,
-      147.798
-    ],
-    "stop_loss": 137.87,
-    "leverage": 5,
-    "status": "SL",
-    "tps_hit": [],
-    "pnl_pct": -10.2657,
-    "source_msg_id": 30126,
-    "forwarded_msg_id": 30125,
-    "opened_at": "2026-08-19T13:45:34+00:00",
-    "closed_at": "2026-08-19T13:45:34+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30127": {
-    "coin": "ACE",
-    "direction": "LONG",
-    "entry_price": 0.20540999999999998,
-    "take_profits": [
-      0.2074641,
-      0.21054525,
-      0.2156805
-    ],
-    "stop_loss": 0.2012,
-    "leverage": 5,
-    "status": "TP1",
     "tps_hit": [
       1
     ],
-    "pnl_pct": -4.5888,
-    "source_msg_id": 30127,
-    "forwarded_msg_id": 30126,
-    "opened_at": "2026-08-19T13:15:34+00:00",
-    "closed_at": "2026-08-19T13:15:34+00:00",
+    "pnl_pct": 1.9772,
+    "source_msg_id": 2546,
+    "forwarded_msg_id": 2546,
+    "opened_at": "2026-08-24T18:00:34+00:00",
+    "closed_at": "2026-08-24T19:22:58+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30128": {
-    "coin": "ETH",
+  "2548": {
+    "coin": "XPL",
     "direction": "LONG",
-    "entry_price": 1904.8400000000001,
+    "entry_price": 0.09459,
     "take_profits": [
-      1926.78,
-      1955.39,
-      2003.09
+      0.09554,
+      0.09696,
+      0.09932
     ],
-    "stop_loss": 0.0,
+    "stop_loss": 0.09251,
     "leverage": 5,
     "status": "CLOSED",
     "tps_hit": [
@@ -2939,129 +385,2333 @@
       2,
       3
     ],
-    "pnl_pct": 13.5071,
-    "source_msg_id": 30128,
-    "forwarded_msg_id": 30127,
-    "opened_at": "2026-08-19T03:15:31+00:00",
-    "closed_at": "2026-08-19T03:15:31+00:00",
+    "pnl_pct": 14.0286,
+    "source_msg_id": 2548,
+    "forwarded_msg_id": 2548,
+    "opened_at": "2026-08-24T18:00:35+00:00",
+    "closed_at": "2026-08-25T00:45:10+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30129": {
-    "coin": "XAU",
+  "2599": {
+    "coin": "TAO",
     "direction": "LONG",
-    "entry_price": 4353.26,
+    "entry_price": 235.0,
     "take_profits": [
-      4403.39,
-      4468.79,
-      4577.79
+      237.4,
+      240.9,
+      246.8
     ],
-    "stop_loss": 0.0,
+    "stop_loss": 229.9,
     "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0205,
-    "source_msg_id": 30129,
-    "forwarded_msg_id": 30128,
-    "opened_at": "2026-08-18T15:30:33+00:00",
-    "closed_at": "2026-08-18T15:30:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30130": {
-    "coin": "SNXX",
-    "direction": "LONG",
-    "entry_price": 15.395,
-    "take_profits": [
-      15.54895,
-      15.779875,
-      16.16475
-    ],
-    "stop_loss": 15.08,
-    "leverage": 5,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": -3.8649,
-    "source_msg_id": 30130,
-    "forwarded_msg_id": 30129,
-    "opened_at": "2026-08-18T15:15:34+00:00",
-    "closed_at": "2026-08-18T15:15:34+00:00",
+    "pnl_pct": 2.1429,
+    "source_msg_id": 2599,
+    "forwarded_msg_id": 2599,
+    "opened_at": "2026-08-25T08:00:39+00:00",
+    "closed_at": "2026-08-25T12:06:05+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30131": {
-    "coin": "APT",
+  "2601": {
+    "coin": "ADA",
     "direction": "LONG",
-    "entry_price": 0.5156000000000001,
+    "entry_price": 0.221,
     "take_profits": [
-      0.5215,
-      0.5293,
-      0.5422
+      0.223,
+      0.226,
+      0.232
     ],
-    "stop_loss": 0.0,
-    "leverage": 5,
-    "status": "CLOSED",
-    "tps_hit": [
-      1,
-      2,
-      3
-    ],
-    "pnl_pct": 14.0128,
-    "source_msg_id": 30131,
-    "forwarded_msg_id": 30130,
-    "opened_at": "2026-08-18T03:15:33+00:00",
-    "closed_at": "2026-08-18T03:15:33+00:00",
-    "entry_high": 0.0,
-    "entry_low": 0.0
-  },
-  "30132": {
-    "coin": "DOT",
-    "direction": "LONG",
-    "entry_price": 0.74135,
-    "take_profits": [
-      0.7487635,
-      0.75988375,
-      0.7784175
-    ],
-    "stop_loss": 0.7261,
+    "stop_loss": 0.216,
     "leverage": 5,
     "status": "SL",
     "tps_hit": [],
-    "pnl_pct": -10.2853,
-    "source_msg_id": 30132,
-    "forwarded_msg_id": 30131,
-    "opened_at": "2026-08-18T02:15:32+00:00",
-    "closed_at": "2026-08-18T02:15:32+00:00",
+    "pnl_pct": -10.2041,
+    "source_msg_id": 2601,
+    "forwarded_msg_id": 2601,
+    "opened_at": "2026-08-25T08:30:32+00:00",
+    "closed_at": "2026-08-25T12:07:30+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
-  "30133": {
-    "coin": "PORTAL",
+  "2612": {
+    "coin": "SOL",
     "direction": "LONG",
-    "entry_price": 0.01454,
+    "entry_price": 96.96,
     "take_profits": [
-      0.0146854,
-      0.0149035,
-      0.015267
+      97.93,
+      99.38,
+      101.81
     ],
-    "stop_loss": 0.014241,
+    "stop_loss": 94.83,
     "leverage": 5,
-    "status": "TP2",
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3034,
+    "source_msg_id": 2612,
+    "forwarded_msg_id": 2612,
+    "opened_at": "2026-08-25T13:45:31+00:00",
+    "closed_at": "2026-08-25T20:44:35+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2614": {
+    "coin": "PUMPFUN",
+    "direction": "LONG",
+    "entry_price": 0.004569,
+    "take_profits": [
+      0.004615,
+      0.004683,
+      0.004797
+    ],
+    "stop_loss": 0.004469,
+    "leverage": 5,
+    "status": "SL",
     "tps_hit": [
       1,
       2
     ],
-    "pnl_pct": 3.1946,
-    "source_msg_id": 30133,
-    "forwarded_msg_id": 30132,
-    "opened_at": "2026-08-17T22:30:34+00:00",
-    "closed_at": "2026-08-17T22:30:34+00:00",
+    "pnl_pct": 8.0447,
+    "source_msg_id": 2614,
+    "forwarded_msg_id": 2614,
+    "opened_at": "2026-08-25T13:45:35+00:00",
+    "closed_at": "2026-08-25T14:15:07+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2624": {
+    "coin": "DOGE",
+    "direction": "LONG",
+    "entry_price": 0.0878,
+    "take_profits": [
+      0.08868,
+      0.09,
+      0.09219
+    ],
+    "stop_loss": 0.08587,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2658,
+    "source_msg_id": 2624,
+    "forwarded_msg_id": 2624,
+    "opened_at": "2026-08-25T14:15:32+00:00",
+    "closed_at": "2026-08-25T20:44:37+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2628": {
+    "coin": "VELVET",
+    "direction": "LONG",
+    "entry_price": 0.1379,
+    "take_profits": [
+      0.1393,
+      0.1413,
+      0.1448
+    ],
+    "stop_loss": 0.1348,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.226,
+    "source_msg_id": 2628,
+    "forwarded_msg_id": 2628,
+    "opened_at": "2026-08-25T14:30:35+00:00",
+    "closed_at": "2026-08-25T15:11:21+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2637": {
+    "coin": "TAO",
+    "direction": "LONG",
+    "entry_price": 227.71,
+    "take_profits": [
+      229.99,
+      233.41,
+      239.1
+    ],
+    "stop_loss": 222.7,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.0178,
+    "source_msg_id": 2637,
+    "forwarded_msg_id": 2637,
+    "opened_at": "2026-08-25T21:00:37+00:00",
+    "closed_at": "2026-08-25T23:42:19+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2642": {
+    "coin": "XRP",
+    "direction": "LONG",
+    "entry_price": 1.4216,
+    "take_profits": [
+      1.4358,
+      1.4571,
+      1.4926
+    ],
+    "stop_loss": 1.3903,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 1.9977,
+    "source_msg_id": 2642,
+    "forwarded_msg_id": 2642,
+    "opened_at": "2026-08-25T21:30:31+00:00",
+    "closed_at": "2026-08-26T09:17:23+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2644": {
+    "coin": "LINK",
+    "direction": "LONG",
+    "entry_price": 11.214,
+    "take_profits": [
+      11.326,
+      11.494,
+      11.774
+    ],
+    "stop_loss": 10.967,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 1.9975,
+    "source_msg_id": 2644,
+    "forwarded_msg_id": 2644,
+    "opened_at": "2026-08-25T21:30:32+00:00",
+    "closed_at": "2026-08-26T14:48:44+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2646": {
+    "coin": "LTC",
+    "direction": "LONG",
+    "entry_price": 49.71,
+    "take_profits": [
+      50.21,
+      50.95,
+      52.19
+    ],
+    "stop_loss": 48.62,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3169,
+    "source_msg_id": 2646,
+    "forwarded_msg_id": 2646,
+    "opened_at": "2026-08-25T21:30:33+00:00",
+    "closed_at": "2026-08-27T04:49:22+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2648": {
+    "coin": "WLD",
+    "direction": "LONG",
+    "entry_price": 0.3782,
+    "take_profits": [
+      0.3819,
+      0.3876,
+      0.3971
+    ],
+    "stop_loss": 0.3698,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.2775,
+    "source_msg_id": 2648,
+    "forwarded_msg_id": 2648,
+    "opened_at": "2026-08-25T21:30:38+00:00",
+    "closed_at": "2026-08-28T20:36:43+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2678": {
+    "coin": "LIT",
+    "direction": "LONG",
+    "entry_price": 3.194,
+    "take_profits": [
+      3.226,
+      3.274,
+      3.354
+    ],
+    "stop_loss": 3.124,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.2888,
+    "source_msg_id": 2678,
+    "forwarded_msg_id": 2678,
+    "opened_at": "2026-08-26T14:45:37+00:00",
+    "closed_at": "2026-08-26T16:43:38+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2684": {
+    "coin": "TRUMP",
+    "direction": "LONG",
+    "entry_price": 2.147,
+    "take_profits": [
+      2.169,
+      2.201,
+      2.255
+    ],
+    "stop_loss": 2.1,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 13.3675,
+    "source_msg_id": 2684,
+    "forwarded_msg_id": 2684,
+    "opened_at": "2026-08-26T15:30:36+00:00",
+    "closed_at": "2026-09-03T01:19:00+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2711": {
+    "coin": "ENA",
+    "direction": "LONG",
+    "entry_price": 0.14522,
+    "take_profits": [
+      0.14667,
+      0.14885,
+      0.15248
+    ],
+    "stop_loss": 0.14203,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.2965,
+    "source_msg_id": 2711,
+    "forwarded_msg_id": 2711,
+    "opened_at": "2026-08-27T02:15:34+00:00",
+    "closed_at": "2026-08-27T06:13:14+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2715": {
+    "coin": "FARTCOIN",
+    "direction": "LONG",
+    "entry_price": 0.20188,
+    "take_profits": [
+      0.2039,
+      0.20692,
+      0.21197
+    ],
+    "stop_loss": 0.19744,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2567,
+    "source_msg_id": 2715,
+    "forwarded_msg_id": 2715,
+    "opened_at": "2026-08-27T05:30:35+00:00",
+    "closed_at": "2026-08-27T06:34:47+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2737": {
+    "coin": "CASHCAT",
+    "direction": "LONG",
+    "entry_price": 0.22286,
+    "take_profits": [
+      0.22508,
+      0.22843,
+      0.234
+    ],
+    "stop_loss": 0.21795,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.1949,
+    "source_msg_id": 2737,
+    "forwarded_msg_id": 2737,
+    "opened_at": "2026-08-27T11:00:37+00:00",
+    "closed_at": "2026-08-28T00:12:03+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2757": {
+    "coin": "SKHYNIX",
+    "direction": "LONG",
+    "entry_price": 1226.32,
+    "take_profits": [
+      1238.58,
+      1256.97,
+      1287.63
+    ],
+    "stop_loss": 1199.34,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.303,
+    "source_msg_id": 2757,
+    "forwarded_msg_id": 2757,
+    "opened_at": "2026-08-27T14:15:36+00:00",
+    "closed_at": "2026-08-28T00:06:54+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2795": {
+    "coin": "FARTCOIN",
+    "direction": "LONG",
+    "entry_price": 0.20766,
+    "take_profits": [
+      0.20974,
+      0.21285,
+      0.21804
+    ],
+    "stop_loss": 0.20309,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3053,
+    "source_msg_id": 2795,
+    "forwarded_msg_id": 2795,
+    "opened_at": "2026-08-28T02:15:35+00:00",
+    "closed_at": "2026-08-28T04:33:12+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2798": {
+    "coin": "ONG",
+    "direction": "LONG",
+    "entry_price": 0.11817,
+    "take_profits": [
+      0.11935,
+      0.12112,
+      0.12408
+    ],
+    "stop_loss": 0.11557,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.7552,
+    "source_msg_id": 2798,
+    "forwarded_msg_id": 2798,
+    "opened_at": "2026-08-28T02:45:34+00:00",
+    "closed_at": "2026-08-28T04:16:13+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2801": {
+    "coin": "BTR",
+    "direction": "LONG",
+    "entry_price": 0.15424,
+    "take_profits": [
+      0.15578,
+      0.15809,
+      0.16195
+    ],
+    "stop_loss": 0.15084,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2915,
+    "source_msg_id": 2801,
+    "forwarded_msg_id": 2801,
+    "opened_at": "2026-08-28T03:00:33+00:00",
+    "closed_at": "2026-08-28T03:02:52+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2806": {
+    "coin": "SNXX",
+    "direction": "LONG",
+    "entry_price": 12.46,
+    "take_profits": [
+      12.59,
+      12.77,
+      13.08
+    ],
+    "stop_loss": 12.19,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.0482,
+    "source_msg_id": 2806,
+    "forwarded_msg_id": 2806,
+    "opened_at": "2026-08-28T03:30:35+00:00",
+    "closed_at": "2026-08-28T05:19:58+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2814": {
+    "coin": "CL",
+    "direction": "LONG",
+    "entry_price": 82.91,
+    "take_profits": [
+      83.74,
+      84.99,
+      87.06
+    ],
+    "stop_loss": 81.09,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 14.0484,
+    "source_msg_id": 2814,
+    "forwarded_msg_id": 2814,
+    "opened_at": "2026-08-28T06:30:37+00:00",
+    "closed_at": "2026-09-01T07:19:02+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2817": {
+    "coin": "SOXL",
+    "direction": "LONG",
+    "entry_price": 118.7,
+    "take_profits": [
+      119.88,
+      121.66,
+      124.63
+    ],
+    "stop_loss": 116.09,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.295,
+    "source_msg_id": 2817,
+    "forwarded_msg_id": 2817,
+    "opened_at": "2026-08-28T14:00:34+00:00",
+    "closed_at": "2026-08-28T15:07:09+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2820": {
+    "coin": "XRP",
+    "direction": "LONG",
+    "entry_price": 1.3957,
+    "take_profits": [
+      1.4097,
+      1.4306,
+      1.4655
+    ],
+    "stop_loss": 1.365,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.0062,
+    "source_msg_id": 2820,
+    "forwarded_msg_id": 2820,
+    "opened_at": "2026-08-28T14:30:31+00:00",
+    "closed_at": "2026-08-28T16:12:20+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2822": {
+    "coin": "XAU",
+    "direction": "LONG",
+    "entry_price": 4550.82,
+    "take_profits": [
+      4596.33,
+      4664.6,
+      4778.37
+    ],
+    "stop_loss": 4450.71,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2646,
+    "source_msg_id": 2822,
+    "forwarded_msg_id": 2822,
+    "opened_at": "2026-08-28T14:30:35+00:00",
+    "closed_at": "2026-08-30T23:43:01+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2830": {
+    "coin": "ETH",
+    "direction": "LONG",
+    "entry_price": 2469.36,
+    "take_profits": [
+      2494.05,
+      2531.09,
+      2592.83
+    ],
+    "stop_loss": 2415.03,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.266,
+    "source_msg_id": 2830,
+    "forwarded_msg_id": 2830,
+    "opened_at": "2026-08-28T16:00:31+00:00",
+    "closed_at": "2026-08-28T16:24:58+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2847": {
+    "coin": "1000PEPE",
+    "direction": "LONG",
+    "entry_price": 0.00366,
+    "take_profits": [
+      0.003697,
+      0.003752,
+      0.003843
+    ],
+    "stop_loss": 0.00358,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3259,
+    "source_msg_id": 2847,
+    "forwarded_msg_id": 2847,
+    "opened_at": "2026-08-28T16:45:35+00:00",
+    "closed_at": "2026-08-29T03:42:54+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2849": {
+    "coin": "PUMPFUN",
+    "direction": "LONG",
+    "entry_price": 0.004596,
+    "take_profits": [
+      0.004642,
+      0.004711,
+      0.004826
+    ],
+    "stop_loss": 0.004495,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.1924,
+    "source_msg_id": 2849,
+    "forwarded_msg_id": 2849,
+    "opened_at": "2026-08-28T16:45:35+00:00",
+    "closed_at": "2026-08-28T20:16:49+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2851": {
+    "coin": "TAO",
+    "direction": "LONG",
+    "entry_price": 237.68,
+    "take_profits": [
+      240.05,
+      243.62,
+      249.56
+    ],
+    "stop_loss": 232.45,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2604,
+    "source_msg_id": 2851,
+    "forwarded_msg_id": 2851,
+    "opened_at": "2026-08-28T16:45:36+00:00",
+    "closed_at": "2026-08-28T18:45:50+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2854": {
+    "coin": "MOVR",
+    "direction": "LONG",
+    "entry_price": 0.853,
+    "take_profits": [
+      0.862,
+      0.875,
+      0.896
+    ],
+    "stop_loss": 0.834,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3474,
+    "source_msg_id": 2854,
+    "forwarded_msg_id": 2854,
+    "opened_at": "2026-08-28T18:00:34+00:00",
+    "closed_at": "2026-08-28T18:13:17+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2898": {
+    "coin": "TRUMP",
+    "direction": "LONG",
+    "entry_price": 2.73,
+    "take_profits": [
+      2.76,
+      2.8,
+      2.87
+    ],
+    "stop_loss": 2.67,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.5688,
+    "source_msg_id": 2898,
+    "forwarded_msg_id": 2898,
+    "opened_at": "2026-08-29T02:30:34+00:00",
+    "closed_at": "2026-08-29T06:08:52+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2904": {
+    "coin": "SOL",
+    "direction": "LONG",
+    "entry_price": 103.75,
+    "take_profits": [
+      104.78,
+      106.34,
+      108.93
+    ],
+    "stop_loss": 101.46,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.9782,
+    "source_msg_id": 2904,
+    "forwarded_msg_id": 2904,
+    "opened_at": "2026-08-29T03:15:31+00:00",
+    "closed_at": "2026-08-30T20:31:29+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2911": {
+    "coin": "FARTCOIN",
+    "direction": "LONG",
+    "entry_price": 0.18925,
+    "take_profits": [
+      0.19114,
+      0.19398,
+      0.19871
+    ],
+    "stop_loss": 0.18509,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.7542,
+    "source_msg_id": 2911,
+    "forwarded_msg_id": 2911,
+    "opened_at": "2026-08-29T09:15:36+00:00",
+    "closed_at": "2026-08-30T14:35:16+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2914": {
+    "coin": "TRUMP",
+    "direction": "LONG",
+    "entry_price": 2.596,
+    "take_profits": [
+      2.622,
+      2.661,
+      2.725
+    ],
+    "stop_loss": 2.539,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.1069,
+    "source_msg_id": 2914,
+    "forwarded_msg_id": 2914,
+    "opened_at": "2026-08-30T02:15:34+00:00",
+    "closed_at": "2026-08-30T03:54:51+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2918": {
+    "coin": "SOXL",
+    "direction": "LONG",
+    "entry_price": 112.51,
+    "take_profits": [
+      113.64,
+      115.32,
+      118.14
+    ],
+    "stop_loss": 110.04,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2368,
+    "source_msg_id": 2918,
+    "forwarded_msg_id": 2918,
+    "opened_at": "2026-08-30T03:30:34+00:00",
+    "closed_at": "2026-08-30T23:46:19+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2928": {
+    "coin": "MAGMA",
+    "direction": "LONG",
+    "entry_price": 0.4145,
+    "take_profits": [
+      0.4186,
+      0.4249,
+      0.4352
+    ],
+    "stop_loss": 0.4054,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2682,
+    "source_msg_id": 2928,
+    "forwarded_msg_id": 2928,
+    "opened_at": "2026-08-30T19:30:35+00:00",
+    "closed_at": "2026-08-30T19:47:47+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2934": {
+    "coin": "SOL",
+    "direction": "LONG",
+    "entry_price": 103.76,
+    "take_profits": [
+      104.8,
+      106.36,
+      108.95
+    ],
+    "stop_loss": 101.48,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2553,
+    "source_msg_id": 2934,
+    "forwarded_msg_id": 2934,
+    "opened_at": "2026-08-30T21:30:31+00:00",
+    "closed_at": "2026-08-30T23:29:39+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2936": {
+    "coin": "DOGE",
+    "direction": "LONG",
+    "entry_price": 0.0843,
+    "take_profits": [
+      0.0851,
+      0.0864,
+      0.0885
+    ],
+    "stop_loss": 0.0824,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.3981,
+    "source_msg_id": 2936,
+    "forwarded_msg_id": 2936,
+    "opened_at": "2026-08-30T21:30:32+00:00",
+    "closed_at": "2026-08-30T23:23:26+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2940": {
+    "coin": "TRUMP",
+    "direction": "LONG",
+    "entry_price": 2.411,
+    "take_profits": [
+      2.436,
+      2.472,
+      2.532
+    ],
+    "stop_loss": 2.358,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2804,
+    "source_msg_id": 2940,
+    "forwarded_msg_id": 2940,
+    "opened_at": "2026-08-30T23:00:34+00:00",
+    "closed_at": "2026-08-30T23:29:42+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2942": {
+    "coin": "ENA",
+    "direction": "LONG",
+    "entry_price": 0.15539,
+    "take_profits": [
+      0.15695,
+      0.15928,
+      0.16316
+    ],
+    "stop_loss": 0.15198,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2475,
+    "source_msg_id": 2942,
+    "forwarded_msg_id": 2942,
+    "opened_at": "2026-08-30T23:00:34+00:00",
+    "closed_at": "2026-08-30T23:23:17+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2952": {
+    "coin": "ADA",
+    "direction": "LONG",
+    "entry_price": 0.1917,
+    "take_profits": [
+      0.1936,
+      0.1965,
+      0.2013
+    ],
+    "stop_loss": 0.1875,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.0199,
+    "source_msg_id": 2952,
+    "forwarded_msg_id": 2952,
+    "opened_at": "2026-08-30T23:45:31+00:00",
+    "closed_at": "2026-08-31T13:50:59+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2955": {
+    "coin": "SUI",
+    "direction": "LONG",
+    "entry_price": 0.7045,
+    "take_profits": [
+      0.7116,
+      0.7222,
+      0.7398
+    ],
+    "stop_loss": 0.689,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.5481,
+    "source_msg_id": 2955,
+    "forwarded_msg_id": 2955,
+    "opened_at": "2026-08-30T23:45:33+00:00",
+    "closed_at": "2026-09-01T18:39:12+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2956": {
+    "coin": "APT",
+    "direction": "LONG",
+    "entry_price": 0.5149,
+    "take_profits": [
+      0.5201,
+      0.5278,
+      0.5406
+    ],
+    "stop_loss": 0.5036,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 14.0134,
+    "source_msg_id": 2956,
+    "forwarded_msg_id": 2956,
+    "opened_at": "2026-08-30T23:45:33+00:00",
+    "closed_at": "2026-09-01T03:36:15+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2959": {
+    "coin": "HYPE",
+    "direction": "LONG",
+    "entry_price": 79.45,
+    "take_profits": [
+      80.24,
+      81.43,
+      83.42
+    ],
+    "stop_loss": 77.7,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 13.7394,
+    "source_msg_id": 2959,
+    "forwarded_msg_id": 2959,
+    "opened_at": "2026-08-30T23:45:34+00:00",
+    "closed_at": "2026-08-31T16:44:19+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2968": {
+    "coin": "PUMPFUN",
+    "direction": "LONG",
+    "entry_price": 0.0044,
+    "take_profits": [
+      0.00444,
+      0.00451,
+      0.00462
+    ],
+    "stop_loss": 0.0043,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2506,
+    "source_msg_id": 2968,
+    "forwarded_msg_id": 2968,
+    "opened_at": "2026-08-31T00:01:05+00:00",
+    "closed_at": "2026-08-31T02:49:07+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2977": {
+    "coin": "BTR",
+    "direction": "LONG",
+    "entry_price": 0.14713,
+    "take_profits": [
+      0.14861,
+      0.15081,
+      0.15449
+    ],
+    "stop_loss": 0.1439,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2444,
+    "source_msg_id": 2977,
+    "forwarded_msg_id": 2977,
+    "opened_at": "2026-08-31T05:00:33+00:00",
+    "closed_at": "2026-08-31T06:29:10+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2988": {
+    "coin": "PUMPFUN",
+    "direction": "LONG",
+    "entry_price": 0.004484,
+    "take_profits": [
+      0.004529,
+      0.004596,
+      0.004708
+    ],
+    "stop_loss": 0.004385,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.0071,
+    "source_msg_id": 2988,
+    "forwarded_msg_id": 2988,
+    "opened_at": "2026-09-01T03:00:35+00:00",
+    "closed_at": "2026-09-01T04:53:28+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2991": {
+    "coin": "KORU",
+    "direction": "LONG",
+    "entry_price": 20.92,
+    "take_profits": [
+      21.13,
+      21.45,
+      21.97
+    ],
+    "stop_loss": 20.46,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.292,
+    "source_msg_id": 2991,
+    "forwarded_msg_id": 2991,
+    "opened_at": "2026-09-01T03:15:36+00:00",
+    "closed_at": "2026-09-01T08:49:21+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "2999": {
+    "coin": "ZEC",
+    "direction": "LONG",
+    "entry_price": 841.55,
+    "take_profits": [
+      849.97,
+      862.59,
+      883.63
+    ],
+    "stop_loss": 823.04,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.0127,
+    "source_msg_id": 2999,
+    "forwarded_msg_id": 2999,
+    "opened_at": "2026-09-01T08:45:34+00:00",
+    "closed_at": "2026-09-01T12:38:07+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3001": {
+    "coin": "SNDK",
+    "direction": "LONG",
+    "entry_price": 1523.11,
+    "take_profits": [
+      1538.34,
+      1561.19,
+      1599.27
+    ],
+    "stop_loss": 1489.6,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 14.0217,
+    "source_msg_id": 3001,
+    "forwarded_msg_id": 3001,
+    "opened_at": "2026-09-01T08:45:35+00:00",
+    "closed_at": "2026-09-01T15:45:23+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3005": {
+    "coin": "SKR",
+    "direction": "LONG",
+    "entry_price": 0.027194,
+    "take_profits": [
+      0.027466,
+      0.027874,
+      0.028554
+    ],
+    "stop_loss": 0.026596,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2567,
+    "source_msg_id": 3005,
+    "forwarded_msg_id": 3005,
+    "opened_at": "2026-09-01T09:00:34+00:00",
+    "closed_at": "2026-09-01T09:12:08+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3015": {
+    "coin": "ZEC",
+    "direction": "LONG",
+    "entry_price": 833.61,
+    "take_profits": [
+      841.95,
+      854.45,
+      875.29
+    ],
+    "stop_loss": 815.27,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3043,
+    "source_msg_id": 3015,
+    "forwarded_msg_id": 3015,
+    "opened_at": "2026-09-01T16:45:34+00:00",
+    "closed_at": "2026-09-02T04:13:29+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3017": {
+    "coin": "TRUMP",
+    "direction": "LONG",
+    "entry_price": 2.318,
+    "take_profits": [
+      2.341,
+      2.376,
+      2.434
+    ],
+    "stop_loss": 2.267,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2614,
+    "source_msg_id": 3017,
+    "forwarded_msg_id": 3017,
+    "opened_at": "2026-09-01T17:00:35+00:00",
+    "closed_at": "2026-09-01T20:41:35+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3020": {
+    "coin": "KORU",
+    "direction": "LONG",
+    "entry_price": 19.48,
+    "take_profits": [
+      19.67,
+      19.97,
+      20.45
+    ],
+    "stop_loss": 19.05,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2828,
+    "source_msg_id": 3020,
+    "forwarded_msg_id": 3020,
+    "opened_at": "2026-09-01T17:30:36+00:00",
+    "closed_at": "2026-09-01T18:34:34+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3024": {
+    "coin": "ADA",
+    "direction": "LONG",
+    "entry_price": 0.195,
+    "take_profits": [
+      0.197,
+      0.2,
+      0.205
+    ],
+    "stop_loss": 0.191,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.5707,
+    "source_msg_id": 3024,
+    "forwarded_msg_id": 3024,
+    "opened_at": "2026-09-01T18:30:32+00:00",
+    "closed_at": "2026-09-01T21:16:13+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3030": {
+    "coin": "SOL",
+    "direction": "LONG",
+    "entry_price": 98.88,
+    "take_profits": [
+      99.87,
+      101.36,
+      103.83
+    ],
+    "stop_loss": 96.71,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.0024,
+    "source_msg_id": 3030,
+    "forwarded_msg_id": 3030,
+    "opened_at": "2026-09-01T19:15:31+00:00",
+    "closed_at": "2026-09-02T01:47:11+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3039": {
+    "coin": "HEMI",
+    "direction": "LONG",
+    "entry_price": 0.014336,
+    "take_profits": [
+      0.014479,
+      0.014694,
+      0.015053
+    ],
+    "stop_loss": 0.01402,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 1.995,
+    "source_msg_id": 3039,
+    "forwarded_msg_id": 3039,
+    "opened_at": "2026-09-01T22:30:36+00:00",
+    "closed_at": "2026-09-01T23:36:29+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3043": {
+    "coin": "LIT",
+    "direction": "LONG",
+    "entry_price": 3.556,
+    "take_profits": [
+      3.592,
+      3.645,
+      3.734
+    ],
+    "stop_loss": 3.478,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2788,
+    "source_msg_id": 3043,
+    "forwarded_msg_id": 3043,
+    "opened_at": "2026-09-01T23:00:36+00:00",
+    "closed_at": "2026-09-02T01:44:22+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3051": {
+    "coin": "SOXL",
+    "direction": "LONG",
+    "entry_price": 101.89,
+    "take_profits": [
+      102.91,
+      104.44,
+      106.99
+    ],
+    "stop_loss": 99.65,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.0057,
+    "source_msg_id": 3051,
+    "forwarded_msg_id": 3051,
+    "opened_at": "2026-09-02T09:30:34+00:00",
+    "closed_at": "2026-09-02T12:58:49+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3054": {
+    "coin": "SNDK",
+    "direction": "LONG",
+    "entry_price": 1516.68,
+    "take_profits": [
+      1531.85,
+      1554.6,
+      1592.52
+    ],
+    "stop_loss": 1483.32,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.251,
+    "source_msg_id": 3054,
+    "forwarded_msg_id": 3054,
+    "opened_at": "2026-09-02T09:45:37+00:00",
+    "closed_at": "2026-09-02T13:54:08+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3056": {
+    "coin": "KORU",
+    "direction": "LONG",
+    "entry_price": 18.74,
+    "take_profits": [
+      18.92,
+      19.2,
+      19.67
+    ],
+    "stop_loss": 18.32,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 13.8696,
+    "source_msg_id": 3056,
+    "forwarded_msg_id": 3056,
+    "opened_at": "2026-09-02T10:00:36+00:00",
+    "closed_at": "2026-09-02T13:32:48+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3059": {
+    "coin": "ENA",
+    "direction": "LONG",
+    "entry_price": 0.15273,
+    "take_profits": [
+      0.15426,
+      0.15655,
+      0.16037
+    ],
+    "stop_loss": 0.14937,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2623,
+    "source_msg_id": 3059,
+    "forwarded_msg_id": 3059,
+    "opened_at": "2026-09-02T10:15:34+00:00",
+    "closed_at": "2026-09-02T12:52:38+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3061": {
+    "coin": "NVDA",
+    "direction": "LONG",
+    "entry_price": 216.65,
+    "take_profits": [
+      218.81,
+      222.06,
+      227.48
+    ],
+    "stop_loss": 211.88,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 13.4947,
+    "source_msg_id": 3061,
+    "forwarded_msg_id": 3061,
+    "opened_at": "2026-09-02T10:15:34+00:00",
+    "closed_at": "2026-09-02T15:49:20+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3087": {
+    "coin": "SKR",
+    "direction": "LONG",
+    "entry_price": 0.02208,
+    "take_profits": [
+      0.0223,
+      0.02264,
+      0.02319
+    ],
+    "stop_loss": 0.0216,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.9819,
+    "source_msg_id": 3087,
+    "forwarded_msg_id": 3087,
+    "opened_at": "2026-09-03T02:45:36+00:00",
+    "closed_at": "2026-09-03T03:11:28+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3093": {
+    "coin": "CASHCAT",
+    "direction": "LONG",
+    "entry_price": 0.25724,
+    "take_profits": [
+      0.25981,
+      0.26367,
+      0.2701
+    ],
+    "stop_loss": 0.25158,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3009,
+    "source_msg_id": 3093,
+    "forwarded_msg_id": 3093,
+    "opened_at": "2026-09-03T04:45:37+00:00",
+    "closed_at": "2026-09-03T06:58:51+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3100": {
+    "coin": "SNDK",
+    "direction": "LONG",
+    "entry_price": 1523.06,
+    "take_profits": [
+      1538.29,
+      1561.14,
+      1599.21
+    ],
+    "stop_loss": 1489.55,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.0124,
+    "source_msg_id": 3100,
+    "forwarded_msg_id": 3100,
+    "opened_at": "2026-09-03T14:15:34+00:00",
+    "closed_at": "2026-09-03T19:27:24+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3106": {
+    "coin": "MAGMA",
+    "direction": "LONG",
+    "entry_price": 0.3555,
+    "take_profits": [
+      0.359,
+      0.3644,
+      0.3732
+    ],
+    "stop_loss": 0.3477,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2127,
+    "source_msg_id": 3106,
+    "forwarded_msg_id": 3106,
+    "opened_at": "2026-09-03T21:30:36+00:00",
+    "closed_at": "2026-09-03T22:32:10+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3110": {
+    "coin": "SKHYNIX",
+    "direction": "LONG",
+    "entry_price": 1200.4,
+    "take_profits": [
+      1212.4,
+      1230.41,
+      1260.42
+    ],
+    "stop_loss": 1173.99,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.2488,
+    "source_msg_id": 3110,
+    "forwarded_msg_id": 3110,
+    "opened_at": "2026-09-04T02:30:37+00:00",
+    "closed_at": "2026-09-04T12:34:53+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3115": {
+    "coin": "ENA",
+    "direction": "LONG",
+    "entry_price": 0.16396,
+    "take_profits": [
+      0.1656,
+      0.16806,
+      0.17216
+    ],
+    "stop_loss": 0.16035,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 14.0213,
+    "source_msg_id": 3115,
+    "forwarded_msg_id": 3115,
+    "opened_at": "2026-09-04T05:15:35+00:00",
+    "closed_at": "2026-09-04T09:38:10+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3124": {
+    "coin": "SOL",
+    "direction": "LONG",
+    "entry_price": 100.95,
+    "take_profits": [
+      101.96,
+      103.47,
+      106.0
+    ],
+    "stop_loss": 98.73,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.001,
+    "source_msg_id": 3124,
+    "forwarded_msg_id": 3124,
+    "opened_at": "2026-09-04T13:00:32+00:00",
+    "closed_at": "2026-09-04T14:19:57+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3125": {
+    "coin": "XRP",
+    "direction": "LONG",
+    "entry_price": 1.4021,
+    "take_profits": [
+      1.4162,
+      1.4372,
+      1.4722
+    ],
+    "stop_loss": 1.3713,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.0113,
+    "source_msg_id": 3125,
+    "forwarded_msg_id": 3125,
+    "opened_at": "2026-09-04T13:00:32+00:00",
+    "closed_at": "2026-09-04T14:19:59+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3128": {
+    "coin": "SUI",
+    "direction": "LONG",
+    "entry_price": 0.7465,
+    "take_profits": [
+      0.7539,
+      0.7651,
+      0.7838
+    ],
+    "stop_loss": 0.73,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 14.0068,
+    "source_msg_id": 3128,
+    "forwarded_msg_id": 3128,
+    "opened_at": "2026-09-04T13:00:34+00:00",
+    "closed_at": "2026-09-05T07:07:06+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3130": {
+    "coin": "APT",
+    "direction": "LONG",
+    "entry_price": 0.5739,
+    "take_profits": [
+      0.5797,
+      0.5883,
+      0.6026
+    ],
+    "stop_loss": 0.5613,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.0534,
+    "source_msg_id": 3130,
+    "forwarded_msg_id": 3130,
+    "opened_at": "2026-09-04T13:00:35+00:00",
+    "closed_at": "2026-09-04T20:35:10+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3132": {
+    "coin": "ENA",
+    "direction": "LONG",
+    "entry_price": 0.16115,
+    "take_profits": [
+      0.16276,
+      0.16517,
+      0.1692
+    ],
+    "stop_loss": 0.1576,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.0109,
+    "source_msg_id": 3132,
+    "forwarded_msg_id": 3132,
+    "opened_at": "2026-09-04T13:00:39+00:00",
+    "closed_at": "2026-09-04T21:53:34+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3134": {
+    "coin": "TRUMP",
+    "direction": "LONG",
+    "entry_price": 2.196,
+    "take_profits": [
+      2.218,
+      2.251,
+      2.306
+    ],
+    "stop_loss": 2.147,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.8028,
+    "source_msg_id": 3134,
+    "forwarded_msg_id": 3134,
+    "opened_at": "2026-09-04T13:00:40+00:00",
+    "closed_at": "2026-09-08T21:51:38+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3137": {
+    "coin": "UNI",
+    "direction": "LONG",
+    "entry_price": 6.103,
+    "take_profits": [
+      6.164,
+      6.256,
+      6.408
+    ],
+    "stop_loss": 5.969,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.0079,
+    "source_msg_id": 3137,
+    "forwarded_msg_id": 3137,
+    "opened_at": "2026-09-04T13:15:34+00:00",
+    "closed_at": "2026-09-05T08:04:33+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3143": {
+    "coin": "CL",
+    "direction": "LONG",
+    "entry_price": 89.1,
+    "take_profits": [
+      90.0,
+      91.4,
+      93.6
+    ],
+    "stop_loss": 87.2,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 14.0449,
+    "source_msg_id": 3143,
+    "forwarded_msg_id": 3143,
+    "opened_at": "2026-09-04T13:45:34+00:00",
+    "closed_at": "2026-09-08T06:15:55+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3152": {
+    "coin": "CHIP",
+    "direction": "LONG",
+    "entry_price": 0.05246,
+    "take_profits": [
+      0.05299,
+      0.05377,
+      0.05509
+    ],
+    "stop_loss": 0.05131,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.1169,
+    "source_msg_id": 3152,
+    "forwarded_msg_id": 3152,
+    "opened_at": "2026-09-04T14:30:35+00:00",
+    "closed_at": "2026-09-04T14:44:52+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3166": {
+    "coin": "SPCX",
+    "direction": "LONG",
+    "entry_price": 147.63,
+    "take_profits": [
+      149.1,
+      151.32,
+      155.01
+    ],
+    "stop_loss": 144.38,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.2343,
+    "source_msg_id": 3166,
+    "forwarded_msg_id": 3166,
+    "opened_at": "2026-09-04T20:15:34+00:00",
+    "closed_at": "2026-09-08T00:03:01+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3185": {
+    "coin": "XRP",
+    "direction": "LONG",
+    "entry_price": 1.4075,
+    "take_profits": [
+      1.4215,
+      1.4426,
+      1.4778
+    ],
+    "stop_loss": 1.3765,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.2984,
+    "source_msg_id": 3185,
+    "forwarded_msg_id": 3185,
+    "opened_at": "2026-09-06T14:45:31+00:00",
+    "closed_at": "2026-09-07T01:20:09+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3187": {
+    "coin": "ADA",
+    "direction": "LONG",
+    "entry_price": 0.2166,
+    "take_profits": [
+      0.2188,
+      0.222,
+      0.2275
+    ],
+    "stop_loss": 0.2119,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.9982,
+    "source_msg_id": 3187,
+    "forwarded_msg_id": 3187,
+    "opened_at": "2026-09-06T14:45:32+00:00",
+    "closed_at": "2026-09-06T22:18:38+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3189": {
+    "coin": "APT",
+    "direction": "LONG",
+    "entry_price": 0.6089,
+    "take_profits": [
+      0.615,
+      0.6241,
+      0.6393
+    ],
+    "stop_loss": 0.5955,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.5008,
+    "source_msg_id": 3189,
+    "forwarded_msg_id": 3189,
+    "opened_at": "2026-09-06T14:45:34+00:00",
+    "closed_at": "2026-09-07T01:27:28+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3203": {
+    "coin": "PUMPFUN",
+    "direction": "LONG",
+    "entry_price": 0.00392,
+    "take_profits": [
+      0.00396,
+      0.00402,
+      0.00412
+    ],
+    "stop_loss": 0.00383,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 8.046,
+    "source_msg_id": 3203,
+    "forwarded_msg_id": 3203,
+    "opened_at": "2026-09-07T02:30:35+00:00",
+    "closed_at": "2026-09-10T12:24:15+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3205": {
+    "coin": "AKE",
+    "direction": "LONG",
+    "entry_price": 0.012221,
+    "take_profits": [
+      0.012344,
+      0.012527,
+      0.012833
+    ],
+    "stop_loss": 0.011953,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 13.5325,
+    "source_msg_id": 3205,
+    "forwarded_msg_id": 3205,
+    "opened_at": "2026-09-07T03:15:35+00:00",
+    "closed_at": "2026-09-11T05:02:04+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3210": {
+    "coin": "ENA",
+    "direction": "LONG",
+    "entry_price": 0.16847,
+    "take_profits": [
+      0.17015,
+      0.17268,
+      0.17689
+    ],
+    "stop_loss": 0.16476,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2696,
+    "source_msg_id": 3210,
+    "forwarded_msg_id": 3210,
+    "opened_at": "2026-09-07T08:00:34+00:00",
+    "closed_at": "2026-09-07T15:34:16+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3212": {
+    "coin": "DASH",
+    "direction": "LONG",
+    "entry_price": 67.0,
+    "take_profits": [
+      67.6,
+      68.6,
+      70.3
+    ],
+    "stop_loss": 65.5,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 6.7164,
+    "source_msg_id": 3212,
+    "forwarded_msg_id": 3212,
+    "opened_at": "2026-09-07T08:00:36+00:00",
+    "closed_at": "2026-09-07T09:37:16+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3222": {
+    "coin": "TAO",
+    "direction": "LONG",
+    "entry_price": 258.04,
+    "take_profits": [
+      260.62,
+      264.49,
+      270.94
+    ],
+    "stop_loss": 252.36,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3015,
+    "source_msg_id": 3222,
+    "forwarded_msg_id": 3222,
+    "opened_at": "2026-09-07T15:15:34+00:00",
+    "closed_at": "2026-09-07T22:36:28+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3226": {
+    "coin": "HYPE",
+    "direction": "LONG",
+    "entry_price": 84.86,
+    "take_profits": [
+      85.71,
+      86.98,
+      89.1
+    ],
+    "stop_loss": 82.99,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.1065,
+    "source_msg_id": 3226,
+    "forwarded_msg_id": 3226,
+    "opened_at": "2026-09-07T16:00:34+00:00",
+    "closed_at": "2026-09-07T22:39:19+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3228": {
+    "coin": "ENA",
+    "direction": "LONG",
+    "entry_price": 0.16349,
+    "take_profits": [
+      0.16512,
+      0.16758,
+      0.17166
+    ],
+    "stop_loss": 0.15989,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 1.994,
+    "source_msg_id": 3228,
+    "forwarded_msg_id": 3228,
+    "opened_at": "2026-09-07T16:00:35+00:00",
+    "closed_at": "2026-09-07T22:32:09+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3241": {
+    "coin": "ZEC",
+    "direction": "LONG",
+    "entry_price": 1122.6,
+    "take_profits": [
+      1133.8,
+      1150.6,
+      1178.7
+    ],
+    "stop_loss": 1097.9,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 1.9954,
+    "source_msg_id": 3241,
+    "forwarded_msg_id": 3241,
+    "opened_at": "2026-09-07T23:00:34+00:00",
+    "closed_at": "2026-09-08T04:13:09+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3244": {
+    "coin": "ADA",
+    "direction": "LONG",
+    "entry_price": 0.2173,
+    "take_profits": [
+      0.2195,
+      0.2228,
+      0.2282
+    ],
+    "stop_loss": 0.2125,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3041,
+    "source_msg_id": 3244,
+    "forwarded_msg_id": 3244,
+    "opened_at": "2026-09-08T03:15:34+00:00",
+    "closed_at": "2026-09-08T11:47:44+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3248": {
+    "coin": "DOGE",
+    "direction": "LONG",
+    "entry_price": 0.08961,
+    "take_profits": [
+      0.09051,
+      0.09185,
+      0.09409
+    ],
+    "stop_loss": 0.08764,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3135,
+    "source_msg_id": 3248,
+    "forwarded_msg_id": 3248,
+    "opened_at": "2026-09-08T03:30:31+00:00",
+    "closed_at": "2026-09-08T11:11:32+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3256": {
+    "coin": "XAU",
+    "direction": "LONG",
+    "entry_price": 4416.23,
+    "take_profits": [
+      4460.39,
+      4526.64,
+      4637.04
+    ],
+    "stop_loss": 4319.07,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2657,
+    "source_msg_id": 3256,
+    "forwarded_msg_id": 3256,
+    "opened_at": "2026-09-08T06:15:34+00:00",
+    "closed_at": "2026-09-10T23:52:21+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3258": {
+    "coin": "SNDK",
+    "direction": "LONG",
+    "entry_price": 1757.67,
+    "take_profits": [
+      1775.25,
+      1801.62,
+      1845.56
+    ],
+    "stop_loss": 1719.01,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3037,
+    "source_msg_id": 3258,
+    "forwarded_msg_id": 3258,
+    "opened_at": "2026-09-08T06:15:36+00:00",
+    "closed_at": "2026-09-08T11:41:29+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3263": {
+    "coin": "UAI",
+    "direction": "LONG",
+    "entry_price": 0.7078,
+    "take_profits": [
+      0.7149,
+      0.7255,
+      0.7432
+    ],
+    "stop_loss": 0.6922,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.3063,
+    "source_msg_id": 3263,
+    "forwarded_msg_id": 3263,
+    "opened_at": "2026-09-08T07:15:36+00:00",
+    "closed_at": "2026-09-08T07:27:23+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3283": {
+    "coin": "MU",
+    "direction": "LONG",
+    "entry_price": 1001.81,
+    "take_profits": [
+      1011.83,
+      1026.86,
+      1051.9
+    ],
+    "stop_loss": 979.77,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.1012,
+    "source_msg_id": 3283,
+    "forwarded_msg_id": 3283,
+    "opened_at": "2026-09-08T20:15:38+00:00",
+    "closed_at": "2026-09-09T09:48:12+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3287": {
+    "coin": "1000PEPE",
+    "direction": "LONG",
+    "entry_price": 0.003632,
+    "take_profits": [
+      0.003668,
+      0.003723,
+      0.003814
+    ],
+    "stop_loss": 0.003552,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.9967,
+    "source_msg_id": 3287,
+    "forwarded_msg_id": 3287,
+    "opened_at": "2026-09-09T02:15:37+00:00",
+    "closed_at": "2026-09-09T05:46:36+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3289": {
+    "coin": "CL",
+    "direction": "LONG",
+    "entry_price": 93.4,
+    "take_profits": [
+      94.33,
+      95.73,
+      98.07
+    ],
+    "stop_loss": 91.34,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.9884,
+    "source_msg_id": 3289,
+    "forwarded_msg_id": 3289,
+    "opened_at": "2026-09-09T02:15:38+00:00",
+    "closed_at": "2026-09-10T03:03:54+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3299": {
+    "coin": "SKHY",
+    "direction": "LONG",
+    "entry_price": 185.85,
+    "take_profits": [
+      187.7,
+      190.49,
+      195.14
+    ],
+    "stop_loss": 181.76,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 14.0082,
+    "source_msg_id": 3299,
+    "forwarded_msg_id": 3299,
+    "opened_at": "2026-09-09T10:00:37+00:00",
+    "closed_at": "2026-09-09T13:51:52+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3302": {
+    "coin": "SNDK",
+    "direction": "LONG",
+    "entry_price": 1721.8,
+    "take_profits": [
+      1739.1,
+      1764.9,
+      1807.9
+    ],
+    "stop_loss": 1684.0,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 7.2715,
+    "source_msg_id": 3302,
+    "forwarded_msg_id": 3302,
+    "opened_at": "2026-09-09T10:15:34+00:00",
+    "closed_at": "2026-09-10T01:29:17+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3313": {
+    "coin": "SOPH",
+    "direction": "LONG",
+    "entry_price": 0.005176,
+    "take_profits": [
+      0.005228,
+      0.005306,
+      0.005435
+    ],
+    "stop_loss": 0.005062,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 2.1069,
+    "source_msg_id": 3313,
+    "forwarded_msg_id": 3313,
+    "opened_at": "2026-09-09T14:15:34+00:00",
+    "closed_at": "2026-09-09T15:07:23+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
