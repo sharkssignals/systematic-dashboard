@@ -2804,5 +2804,26 @@
     "closed_at": "2026-09-11T23:01:14+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3350": {
+    "coin": "NIULAI",
+    "direction": "LONG",
+    "entry_price": 0.12277,
+    "take_profits": [
+      0.124,
+      0.12584,
+      0.12891
+    ],
+    "stop_loss": 0.12007,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2582,
+    "source_msg_id": 3350,
+    "forwarded_msg_id": 3350,
+    "opened_at": "2026-09-12T02:15:35+00:00",
+    "closed_at": "2026-09-12T03:37:40+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
