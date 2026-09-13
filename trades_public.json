@@ -2825,5 +2825,29 @@
     "closed_at": "2026-09-12T03:37:40+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3354": {
+    "coin": "LAB",
+    "direction": "LONG",
+    "entry_price": 0.0641,
+    "take_profits": [
+      0.0648,
+      0.0657,
+      0.0673
+    ],
+    "stop_loss": 0.0627,
+    "leverage": 5,
+    "status": "TP2",
+    "tps_hit": [
+      1,
+      2
+    ],
+    "pnl_pct": 9.2634,
+    "source_msg_id": 3354,
+    "forwarded_msg_id": 3354,
+    "opened_at": "2026-09-13T04:00:37+00:00",
+    "closed_at": "2026-09-13T04:08:04+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
