@@ -2986,5 +2986,28 @@
     "closed_at": "2026-09-15T05:36:43+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3389": {
+    "coin": "FLOCK",
+    "direction": "LONG",
+    "entry_price": 0.07112,
+    "take_profits": [
+      0.07183,
+      0.0729,
+      0.07468
+    ],
+    "stop_loss": 0.06955,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.7382,
+    "source_msg_id": 3389,
+    "forwarded_msg_id": 3389,
+    "opened_at": "2026-09-15T03:30:36+00:00",
+    "closed_at": "2026-09-15T06:39:00+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
