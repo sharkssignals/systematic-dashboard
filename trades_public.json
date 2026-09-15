@@ -2942,5 +2942,26 @@
     "closed_at": "2026-09-15T01:44:03+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3383": {
+    "coin": "ARK",
+    "direction": "LONG",
+    "entry_price": 0.15365,
+    "take_profits": [
+      0.15519,
+      0.15749,
+      0.16133
+    ],
+    "stop_loss": 0.15027,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2659,
+    "source_msg_id": 3383,
+    "forwarded_msg_id": 3383,
+    "opened_at": "2026-09-15T02:45:37+00:00",
+    "closed_at": "2026-09-15T03:29:42+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
