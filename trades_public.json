@@ -3032,5 +3032,28 @@
     "closed_at": "2026-09-16T13:51:06+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3403": {
+    "coin": "CL",
+    "direction": "LONG",
+    "entry_price": 96.48,
+    "take_profits": [
+      97.45,
+      98.89,
+      101.31
+    ],
+    "stop_loss": 94.36,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.7871,
+    "source_msg_id": 3403,
+    "forwarded_msg_id": 3403,
+    "opened_at": "2026-09-16T15:30:34+00:00",
+    "closed_at": "2026-09-16T16:03:40+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
