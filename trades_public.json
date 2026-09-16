@@ -3055,5 +3055,28 @@
     "closed_at": "2026-09-16T16:03:40+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3407": {
+    "coin": "SOXL",
+    "direction": "LONG",
+    "entry_price": 101.72,
+    "take_profits": [
+      102.74,
+      104.26,
+      106.8
+    ],
+    "stop_loss": 99.48,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.5273,
+    "source_msg_id": 3407,
+    "forwarded_msg_id": 3407,
+    "opened_at": "2026-09-16T19:15:34+00:00",
+    "closed_at": "2026-09-16T19:30:13+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
