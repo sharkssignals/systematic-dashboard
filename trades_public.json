@@ -3009,5 +3009,28 @@
     "closed_at": "2026-09-15T07:15:17+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3398": {
+    "coin": "AKE",
+    "direction": "LONG",
+    "entry_price": 0.027104,
+    "take_profits": [
+      0.027375,
+      0.027781,
+      0.028459
+    ],
+    "stop_loss": 0.026508,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.755,
+    "source_msg_id": 3398,
+    "forwarded_msg_id": 3398,
+    "opened_at": "2026-09-16T13:15:35+00:00",
+    "closed_at": "2026-09-16T13:39:07+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
