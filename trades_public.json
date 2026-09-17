@@ -3080,5 +3080,28 @@
     "closed_at": "2026-09-16T22:42:18+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3414": {
+    "coin": "AAPL",
+    "direction": "LONG",
+    "entry_price": 332.56,
+    "take_profits": [
+      335.88,
+      340.87,
+      349.19
+    ],
+    "stop_loss": 325.24,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 4.9916,
+    "source_msg_id": 3414,
+    "forwarded_msg_id": 3414,
+    "opened_at": "2026-09-17T14:15:38+00:00",
+    "closed_at": "2026-09-17T16:10:33+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
