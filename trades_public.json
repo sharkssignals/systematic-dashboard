@@ -3115,15 +3115,15 @@
     ],
     "stop_loss": 94.12,
     "leverage": 5,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 5.7495,
+    "pnl_pct": 2.2998,
     "source_msg_id": 3420,
     "forwarded_msg_id": 3420,
     "opened_at": "2026-09-18T05:15:36+00:00",
-    "closed_at": "2026-09-18T13:02:07+00:00",
+    "closed_at": "2026-09-18T16:33:32+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
