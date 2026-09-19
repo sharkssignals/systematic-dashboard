@@ -3173,5 +3173,26 @@
     "closed_at": "2026-09-19T08:56:46+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3441": {
+    "coin": "PONS",
+    "direction": "LONG",
+    "entry_price": 0.6457,
+    "take_profits": [
+      0.6522,
+      0.6619,
+      0.678
+    ],
+    "stop_loss": 0.6315,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2753,
+    "source_msg_id": 3441,
+    "forwarded_msg_id": 3441,
+    "opened_at": "2026-09-19T11:15:38+00:00",
+    "closed_at": "2026-09-19T12:44:47+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
