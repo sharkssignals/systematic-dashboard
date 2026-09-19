@@ -3149,5 +3149,28 @@
     "closed_at": "2026-09-18T23:01:43+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3435": {
+    "coin": "ZEC",
+    "direction": "LONG",
+    "entry_price": 1535.84,
+    "take_profits": [
+      1551.2,
+      1574.24,
+      1612.63
+    ],
+    "stop_loss": 1502.05,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.7596,
+    "source_msg_id": 3435,
+    "forwarded_msg_id": 3435,
+    "opened_at": "2026-09-19T03:45:34+00:00",
+    "closed_at": "2026-09-19T05:22:38+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
