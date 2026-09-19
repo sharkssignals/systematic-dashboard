@@ -3194,5 +3194,28 @@
     "closed_at": "2026-09-19T12:44:47+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3445": {
+    "coin": "LSK",
+    "direction": "LONG",
+    "entry_price": 0.41647,
+    "take_profits": [
+      0.42064,
+      0.42689,
+      0.4373
+    ],
+    "stop_loss": 0.40731,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.7593,
+    "source_msg_id": 3445,
+    "forwarded_msg_id": 3445,
+    "opened_at": "2026-09-19T16:45:36+00:00",
+    "closed_at": "2026-09-19T18:39:02+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
