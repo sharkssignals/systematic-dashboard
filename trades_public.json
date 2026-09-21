@@ -3350,15 +3350,17 @@
     ],
     "stop_loss": 1.0464,
     "leverage": 5,
-    "status": "TP1",
+    "status": "CLOSED",
     "tps_hit": [
-      1
+      1,
+      2,
+      3
     ],
-    "pnl_pct": 5.759,
+    "pnl_pct": 14.019,
     "source_msg_id": 3480,
     "forwarded_msg_id": 3480,
     "opened_at": "2026-09-21T09:45:36+00:00",
-    "closed_at": "2026-09-21T10:11:15+00:00",
+    "closed_at": "2026-09-21T10:14:30+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
