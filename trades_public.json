@@ -3338,5 +3338,28 @@
     "closed_at": "2026-09-21T09:31:21+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3480": {
+    "coin": "BR",
+    "direction": "LONG",
+    "entry_price": 1.06994,
+    "take_profits": [
+      1.08064,
+      1.09668,
+      1.12343
+    ],
+    "stop_loss": 1.0464,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.759,
+    "source_msg_id": 3480,
+    "forwarded_msg_id": 3480,
+    "opened_at": "2026-09-21T09:45:36+00:00",
+    "closed_at": "2026-09-21T10:11:15+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
