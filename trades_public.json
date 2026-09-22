@@ -3455,5 +3455,26 @@
     "closed_at": "2026-09-22T04:46:45+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3498": {
+    "coin": "AVAX",
+    "direction": "LONG",
+    "entry_price": 10.981,
+    "take_profits": [
+      11.091,
+      11.255,
+      11.53
+    ],
+    "stop_loss": 10.739,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2832,
+    "source_msg_id": 3498,
+    "forwarded_msg_id": 3498,
+    "opened_at": "2026-09-22T04:00:32+00:00",
+    "closed_at": "2026-09-22T04:56:54+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
