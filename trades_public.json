@@ -3638,5 +3638,26 @@
     "closed_at": "2026-09-23T14:12:10+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3542": {
+    "coin": "XRP",
+    "direction": "LONG",
+    "entry_price": 1.5302,
+    "take_profits": [
+      1.5455,
+      1.5685,
+      1.6067
+    ],
+    "stop_loss": 1.4966,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2428,
+    "source_msg_id": 3542,
+    "forwarded_msg_id": 3542,
+    "opened_at": "2026-09-23T14:16:31+00:00",
+    "closed_at": "2026-09-23T16:01:25+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
