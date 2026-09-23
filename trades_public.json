@@ -3596,5 +3596,47 @@
     "closed_at": "2026-09-23T12:44:09+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3529": {
+    "coin": "ADA",
+    "direction": "LONG",
+    "entry_price": 0.2489,
+    "take_profits": [
+      0.2514,
+      0.2552,
+      0.2614
+    ],
+    "stop_loss": 0.2435,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.1589,
+    "source_msg_id": 3529,
+    "forwarded_msg_id": 3529,
+    "opened_at": "2026-09-23T12:30:33+00:00",
+    "closed_at": "2026-09-23T14:12:17+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3530": {
+    "coin": "AVAX",
+    "direction": "LONG",
+    "entry_price": 10.744,
+    "take_profits": [
+      10.851,
+      11.012,
+      11.281
+    ],
+    "stop_loss": 10.507,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2773,
+    "source_msg_id": 3530,
+    "forwarded_msg_id": 3530,
+    "opened_at": "2026-09-23T12:30:33+00:00",
+    "closed_at": "2026-09-23T14:12:10+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
