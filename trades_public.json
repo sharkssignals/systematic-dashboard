@@ -3527,6 +3527,29 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "3520": {
+    "coin": "SNDK",
+    "direction": "LONG",
+    "entry_price": 1860.72,
+    "take_profits": [
+      1879.32,
+      1907.23,
+      1953.75
+    ],
+    "stop_loss": 1819.78,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 4.9981,
+    "source_msg_id": 3520,
+    "forwarded_msg_id": 3520,
+    "opened_at": "2026-09-23T12:00:35+00:00",
+    "closed_at": "2026-09-23T12:33:03+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "3524": {
     "coin": "ARB",
     "direction": "LONG",
