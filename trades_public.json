@@ -3503,5 +3503,28 @@
     "closed_at": "2026-09-23T10:24:44+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3512": {
+    "coin": "FARTCOIN",
+    "direction": "LONG",
+    "entry_price": 0.20138,
+    "take_profits": [
+      0.20339,
+      0.20641,
+      0.21145
+    ],
+    "stop_loss": 0.19695,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 4.9906,
+    "source_msg_id": 3512,
+    "forwarded_msg_id": 3512,
+    "opened_at": "2026-09-23T09:30:36+00:00",
+    "closed_at": "2026-09-23T10:39:45+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
