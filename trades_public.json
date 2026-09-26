@@ -3775,5 +3775,49 @@
     "closed_at": "2026-09-26T07:33:49+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3570": {
+    "coin": "BROCCOLI",
+    "direction": "LONG",
+    "entry_price": 0.028957,
+    "take_profits": [
+      0.029247,
+      0.029681,
+      0.030405
+    ],
+    "stop_loss": 0.02832,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2634,
+    "source_msg_id": 3570,
+    "forwarded_msg_id": 3570,
+    "opened_at": "2026-09-26T06:45:37+00:00",
+    "closed_at": "2026-09-26T09:18:42+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3577": {
+    "coin": "NEAR",
+    "direction": "LONG",
+    "entry_price": 4.82,
+    "take_profits": [
+      4.87,
+      4.94,
+      5.06
+    ],
+    "stop_loss": 4.72,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.7113,
+    "source_msg_id": 3577,
+    "forwarded_msg_id": 3577,
+    "opened_at": "2026-09-26T09:00:33+00:00",
+    "closed_at": "2026-09-26T09:06:01+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
