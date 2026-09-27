@@ -3842,5 +3842,28 @@
     "closed_at": "2026-09-27T02:42:45+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3589": {
+    "coin": "DASH",
+    "direction": "LONG",
+    "entry_price": 67.98,
+    "take_profits": [
+      68.66,
+      69.68,
+      71.38
+    ],
+    "stop_loss": 66.49,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.0015,
+    "source_msg_id": 3589,
+    "forwarded_msg_id": 3589,
+    "opened_at": "2026-09-27T11:15:37+00:00",
+    "closed_at": "2026-09-27T11:32:08+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
