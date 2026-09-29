@@ -3910,6 +3910,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "3603": {
+    "coin": "CL",
+    "direction": "LONG",
+    "entry_price": 91.5,
+    "take_profits": [
+      92.4,
+      93.8,
+      96.1
+    ],
+    "stop_loss": 89.5,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.1259,
+    "source_msg_id": 3603,
+    "forwarded_msg_id": 3603,
+    "opened_at": "2026-09-29T11:45:35+00:00",
+    "closed_at": "2026-09-29T18:27:28+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "3606": {
     "coin": "HBAR",
     "direction": "LONG",
