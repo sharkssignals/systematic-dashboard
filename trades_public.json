@@ -4001,6 +4001,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "3621": {
+    "coin": "XPL",
+    "direction": "LONG",
+    "entry_price": 0.0936,
+    "take_profits": [
+      0.0945,
+      0.0959,
+      0.0982
+    ],
+    "stop_loss": 0.0915,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.4334,
+    "source_msg_id": 3621,
+    "forwarded_msg_id": 3621,
+    "opened_at": "2026-09-30T14:45:37+00:00",
+    "closed_at": "2026-09-30T18:27:14+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "3623": {
     "coin": "0G",
     "direction": "LONG",
