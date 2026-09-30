@@ -3987,16 +3987,40 @@
     ],
     "stop_loss": 0.005437,
     "leverage": 5,
-    "status": "TP2",
+    "status": "CLOSED",
     "tps_hit": [
       1,
-      2
+      2,
+      3
     ],
-    "pnl_pct": 8.4955,
+    "pnl_pct": 13.5285,
     "source_msg_id": 3619,
     "forwarded_msg_id": 3619,
     "opened_at": "2026-09-30T14:45:34+00:00",
-    "closed_at": "2026-09-30T15:55:50+00:00",
+    "closed_at": "2026-09-30T16:08:53+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
+  "3623": {
+    "coin": "0G",
+    "direction": "LONG",
+    "entry_price": 0.3151,
+    "take_profits": [
+      0.3183,
+      0.323,
+      0.3309
+    ],
+    "stop_loss": 0.3082,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.8001,
+    "source_msg_id": 3623,
+    "forwarded_msg_id": 3623,
+    "opened_at": "2026-09-30T15:00:37+00:00",
+    "closed_at": "2026-09-30T16:10:28+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
