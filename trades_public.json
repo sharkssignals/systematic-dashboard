@@ -4044,5 +4044,28 @@
     "closed_at": "2026-09-30T18:41:21+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3638": {
+    "coin": "ONDO",
+    "direction": "LONG",
+    "entry_price": 0.484,
+    "take_profits": [
+      0.4888,
+      0.4961,
+      0.5082
+    ],
+    "stop_loss": 0.4733,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 4.9587,
+    "source_msg_id": 3638,
+    "forwarded_msg_id": 3638,
+    "opened_at": "2026-09-30T19:00:36+00:00",
+    "closed_at": "2026-09-30T19:31:04+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
