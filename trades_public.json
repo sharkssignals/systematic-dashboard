@@ -4081,15 +4081,15 @@
     ],
     "stop_loss": 0.19387,
     "leverage": 5,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 5.2491,
+    "pnl_pct": 2.0996,
     "source_msg_id": 3644,
     "forwarded_msg_id": 3644,
     "opened_at": "2026-10-01T07:45:33+00:00",
-    "closed_at": "2026-10-01T08:27:01+00:00",
+    "closed_at": "2026-10-01T10:01:57+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   },
@@ -4104,15 +4104,15 @@
     ],
     "stop_loss": 0.5054,
     "leverage": 5,
-    "status": "TP1",
+    "status": "SL",
     "tps_hit": [
       1
     ],
-    "pnl_pct": 5.4558,
+    "pnl_pct": 2.1823,
     "source_msg_id": 3647,
     "forwarded_msg_id": 3647,
     "opened_at": "2026-10-01T08:15:36+00:00",
-    "closed_at": "2026-10-01T08:40:06+00:00",
+    "closed_at": "2026-10-01T10:02:39+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
   }
