@@ -4069,5 +4069,28 @@
     "closed_at": "2026-10-01T00:48:17+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3644": {
+    "coin": "ARB",
+    "direction": "LONG",
+    "entry_price": 0.19823,
+    "take_profits": [
+      0.20021,
+      0.20318,
+      0.20814
+    ],
+    "stop_loss": 0.19387,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.2491,
+    "source_msg_id": 3644,
+    "forwarded_msg_id": 3644,
+    "opened_at": "2026-10-01T07:45:33+00:00",
+    "closed_at": "2026-10-01T08:27:01+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
