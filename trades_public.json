@@ -4092,5 +4092,28 @@
     "closed_at": "2026-10-01T08:27:01+00:00",
     "entry_high": 0.0,
     "entry_low": 0.0
+  },
+  "3647": {
+    "coin": "WLD",
+    "direction": "LONG",
+    "entry_price": 0.5168,
+    "take_profits": [
+      0.5219,
+      0.5297,
+      0.5426
+    ],
+    "stop_loss": 0.5054,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.4558,
+    "source_msg_id": 3647,
+    "forwarded_msg_id": 3647,
+    "opened_at": "2026-10-01T08:15:36+00:00",
+    "closed_at": "2026-10-01T08:40:06+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
   }
 }
