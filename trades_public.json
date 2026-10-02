@@ -4045,6 +4045,29 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "3628": {
+    "coin": "XAU",
+    "direction": "LONG",
+    "entry_price": 4159.96,
+    "take_profits": [
+      4201.56,
+      4263.96,
+      4367.96
+    ],
+    "stop_loss": 4068.44,
+    "leverage": 5,
+    "status": "TP1",
+    "tps_hit": [
+      1
+    ],
+    "pnl_pct": 5.7587,
+    "source_msg_id": 3628,
+    "forwarded_msg_id": 3628,
+    "opened_at": "2026-09-30T15:30:34+00:00",
+    "closed_at": "2026-10-02T12:30:10+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "3638": {
     "coin": "ONDO",
     "direction": "LONG",
