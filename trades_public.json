@@ -4160,6 +4160,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "3656": {
+    "coin": "PUMPFUN",
+    "direction": "LONG",
+    "entry_price": 0.005624,
+    "take_profits": [
+      0.00568,
+      0.005764,
+      0.005905
+    ],
+    "stop_loss": 0.0055,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.284,
+    "source_msg_id": 3656,
+    "forwarded_msg_id": 3656,
+    "opened_at": "2026-10-02T02:45:34+00:00",
+    "closed_at": "2026-10-02T18:20:50+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "3659": {
     "coin": "MOVR",
     "direction": "LONG",
