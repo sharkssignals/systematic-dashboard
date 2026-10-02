@@ -4116,6 +4116,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "3654": {
+    "coin": "CL",
+    "direction": "LONG",
+    "entry_price": 92.7,
+    "take_profits": [
+      93.63,
+      95.02,
+      97.34
+    ],
+    "stop_loss": 90.66,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2901,
+    "source_msg_id": 3654,
+    "forwarded_msg_id": 3654,
+    "opened_at": "2026-10-02T02:30:34+00:00",
+    "closed_at": "2026-10-02T07:57:49+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "3659": {
     "coin": "MOVR",
     "direction": "LONG",
