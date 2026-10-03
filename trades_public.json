@@ -3130,6 +3130,27 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "3418": {
+    "coin": "BR",
+    "direction": "LONG",
+    "entry_price": 0.62816,
+    "take_profits": [
+      0.63444,
+      0.64386,
+      0.65956
+    ],
+    "stop_loss": 0.61434,
+    "leverage": 5,
+    "status": "SL",
+    "tps_hit": [],
+    "pnl_pct": -10.2636,
+    "source_msg_id": 3418,
+    "forwarded_msg_id": 3418,
+    "opened_at": "2026-09-18T03:00:35+00:00",
+    "closed_at": "2026-10-03T07:23:33+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "3420": {
     "coin": "CL",
     "direction": "LONG",
