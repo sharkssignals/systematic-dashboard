@@ -2059,6 +2059,31 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "3126": {
+    "coin": "DOGE",
+    "direction": "LONG",
+    "entry_price": 0.08459,
+    "take_profits": [
+      0.08543,
+      0.0867,
+      0.08882
+    ],
+    "stop_loss": 0.08273,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 3.3466,
+    "source_msg_id": 3126,
+    "forwarded_msg_id": 3126,
+    "opened_at": "2026-09-04T13:00:33+00:00",
+    "closed_at": "2026-11-08T22:09:13+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "3128": {
     "coin": "SUI",
     "direction": "LONG",
