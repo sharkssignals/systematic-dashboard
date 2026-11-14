@@ -552,6 +552,31 @@
     "entry_high": 0.0,
     "entry_low": 0.0
   },
+  "2640": {
+    "coin": "ETH",
+    "direction": "LONG",
+    "entry_price": 2426.52,
+    "take_profits": [
+      2450.78,
+      2487.18,
+      2547.84
+    ],
+    "stop_loss": 2373.13,
+    "leverage": 5,
+    "status": "CLOSED",
+    "tps_hit": [
+      1,
+      2,
+      3
+    ],
+    "pnl_pct": 3.3485,
+    "source_msg_id": 2640,
+    "forwarded_msg_id": 2640,
+    "opened_at": "2026-08-25T21:30:31+00:00",
+    "closed_at": "2026-11-14T17:38:05+00:00",
+    "entry_high": 0.0,
+    "entry_low": 0.0
+  },
   "2642": {
     "coin": "XRP",
     "direction": "LONG",
